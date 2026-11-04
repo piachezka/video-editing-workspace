@@ -29,3 +29,34 @@ Image URL: https://d8j0ntlcm91z4.cloudfront.net/user_36QRYf7SF1sWq9WPFwjX5YdoXtA
 | P21 | If you see the button, | 4d68f86c-b1b7-49ed-9cc3-3757c90350df |
 
 Reference ending: character holds product selfie-style, then product alone on a sunny bathroom counter; no end card.
+
+## Clips (Kling 3.0 Pro, 9:16, sound off)
+
+Character shots use new-pose first frames where they passed the filter (P02, P07 keep the originals).
+
+| Shot | First frame used | Clip job | Duration |
+|---|---|---|---|
+| P01 | 77ab0d14-dab8-45c1-a476-f46cf7eab512 (new pose) | a1da8f81-41c3-4456-a8ef-373755885a83 | 5 s |
+| P02 | cdf377e2 (original) | 314f02ac-677e-4ef2-9ed4-1192ffe4823c | 4 s |
+| P03 | ae2aa5e3 | a2f2c3a9-98a3-429a-b3ae-d29a6f950fd0 | 3 s |
+| P04 | cff5f022 | 46fd6c50-d32b-4155-9adf-a445aa281ef2 | 3 s |
+| P05 | 19d02d28-fe2a-4971-b69e-5c043a0ec995 (new pose) | c9b4df92-fda4-4b21-bf82-dcc29b045cac | 4 s |
+| P06 | 8e0e33f0-052d-4cfe-a5f7-14945a110787 (new pose) | fc6389b6-0c37-4d68-b5b5-e4b25f809ddd | 4 s |
+| P07 | ee463ac3 (original) | 577192f8-6c19-4420-8251-ba8c92ed5723 | 5 s |
+| P08 | 74852a0a | 5bf78a0b-3635-4f4f-9168-5937fc5dc5a2 | 3 s |
+| P09 | b0f12a2b-71e9-4490-8428-1989283ae0d8 (new pose) | 777f594d-cabd-434e-a9dd-1d969189c0cb | 4 s |
+| P10 | 413e7cf3 | cdd3207d-14ef-4516-834b-1ba8698a8661 | 4 s |
+| P11 | 01dc8229 | 605bdd16-c0a7-49f0-b6f4-e5a7cb8b48ea | 6 s |
+| P12 | 92e2c486 | 2fb26054-0bc5-467e-9c6c-ccfca2542fbe | 7 s |
+| P13 | e198dea6 | e9adab93-02dd-49d2-9afb-a998e5ec0bd2 | 6 s |
+| P14 | 8e14c1e2 | 502e14a8-a5e6-4957-a0f5-10341c34400d | 7 s |
+| P15 | a312a8e6 | 313dc45e-c0a1-47de-bf5d-088ebb29b079 | 5 s |
+| P16 | 70aad8d8 | aaea1b4d-570f-4976-8c28-cb692460e843 | 5 s |
+| P17 | 2c88baee-83f2-4bd8-9bfb-d26311f8c443 (new pose) | e135df38-d88a-4d39-8269-751dbeed03ba | 5 s |
+| P18 | a28fa757 | 009e54cf-e75a-43df-97b2-5ca662d40e50 | 3 s |
+| P19 | e82531b5-f2ff-43fc-b354-05b3e6c72194 (new pose) | c7bee3e3-c73f-4529-90f4-e40bb559853d | 5 s |
+| P20 | 966f2d8b-bf58-4ec6-aea8-632986ca0aa6 (new pose) | 383f8940-0e0e-4b3d-a4a3-b31b74ba57eb | 4 s |
+| P21 | 4d68f86c | 5e9df1d8-62c0-4c5c-a4ea-a94ab24489da | 5 s |
+
+Extra clips from original frames (not in the cut, alternates): P01 bd841ef7, P05 2e9bcd38, P06 98686915, P09 124fbab2, P17 59a98e5d, P19 912c0be8, P20 a32055dd.
+Edit plan: keep short shots (P03, P04, P06, P18, P20) as quick cuts via per-shot min_shot.
