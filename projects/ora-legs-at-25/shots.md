@@ -58,3 +58,9 @@ REWRITE clips 12, 13, 14, 17, 19, 22 have no video (stills only). Clip 20 is a s
 
 Edit note: clip 8 shows a brunette woman (not the narrator) top-right. Fix in the edit by zooming ~1.5x
 into the lower part of the frame (oranges + hand), cropping her face out; check every frame of the clip.
+
+## STATUS: PAUSED (2026-11-05)
+Edit "Remember when - Animated AI" failed: VO is 100.83 s, clips too short for 11 of 22 shots
+(e.g. shot 3: 7.0 s clip for a 12.1 s line; shot 12 inspo 2.2 s for a 3.8 s line).
+Plan when resumed: get each shot's required length from the editor, regenerate the short Higgsfield clips at
+that length (+0.3 s), animate the REWRITE first frames for short inspo shots, trim the 0.1 s pause after shot 7.
