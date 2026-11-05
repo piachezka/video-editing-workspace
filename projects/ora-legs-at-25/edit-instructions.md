@@ -2,7 +2,7 @@ PROJECT: "Remember when" (ORA, Pixar 3D animated ad, 9:16, 1080x1920)
 
 INPUTS
 1. Audio track: the ElevenLabs voiceover. It is the clock: every shot starts on the first words of its line (exact anchors below).
-2. Clips: 16 Higgsfield clips (Kling 3.0, silent), attached in shot order. Filenames are hf_<date>_<time>_<job id>.mp4; match each shot by the job id prefix in the table below.
+2. Clips: 16 Higgsfield clips (Kling 3.0, silent). They are NOT uploaded in shot order: filenames are hf_<date>_<time>_<job id>.mp4, so match each file to its shot by the job id prefix in the table below (e.g. hf_20261105_183230_6a0af... = shot 8).
 3. The original inspo ad ("Ripoff Animated - Timeline.mp4"). It supplies the visuals for 6 shots (marked INSPO below) AND the caption style, hook style and pacing to copy. Do not reuse its audio.
 
 SHOT LIST (line = what the VO says during the shot; anchor = first words, use them for timing)
@@ -35,7 +35,7 @@ The VO wording must match these lines word for word; if the transcript differs, 
 
 INSPO SEGMENTS (shots 12, 13, 14, 17, 19, 22)
 - Trim exactly the timestamp range given from the inspo ad and place it at its shot. Mute its audio; our VO plays over it.
-- The inspo has its own burned-in captions and text. Our captions must sit in the same spot and cover theirs. If any inspo text is still visible (above or below ours, or a different line), crop/zoom slightly or blur that area. No inspo words may stay visible.
+- These inspo segments have no burned-in captions; add our captions on them like on every other shot.
 - If a trimmed range is shorter than its VO line, extend it by a few frames from the same inspo shot (never into the neighbouring inspo shot), or slow it to no less than 0.8x. If it is longer, cut the end.
 - Check the cut points frame by frame: no frame of the neighbouring inspo shot may leak in at the start or end.
 
@@ -56,9 +56,9 @@ CAPTIONS (copy the inspo, 2nd screenshot "EVERY SINGLE DAY")
 
 HOOK (copy the inspo, 3rd screenshot "Here's What 1 Gummy A Day / Does To Your Legs 💀")
 - Style: white rounded card at the top (from about 5% to 21% of the height), ~90% of the width, centred. Line 1 in black, line 2 in red, same bold condensed font, Title Case, ending with the 💀 emoji.
-- Text (use this):
-  Line 1 (black): "Why Dieting Stopped Working"
-  Line 2 (red):   "On Your Legs After 40 💀"
+- Text, on two lines (no slash or separator is shown on screen):
+  Line 1 (black): Why Dieting Stopped Working
+  Line 2 (red):   On Your Legs After 40 💀
 - On screen from 0:00 until the cut into shot 2.
 
 TEXT OVERLAYS (add in the edit, not AI-generated; keep each inside its own shot)
