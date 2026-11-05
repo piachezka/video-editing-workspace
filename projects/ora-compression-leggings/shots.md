@@ -47,10 +47,10 @@ Lengths estimated from the script at ~0.45 s/word + 1 s margin (no VO yet); trim
 
 | # | Clip job | Duration |
 |---|---|---|
-| 1 | c3ef8921-e7b4-40aa-ab77-d57242bb425c | 5 s |
+| 1 | 6da405d8-b71f-4e5b-b4c3-2cf5251e7f34 | 5 s (redo: calm leg check, no turning; old c3ef8921 unused) |
 | 2 | 180ff2e3-5537-45b1-9c5f-645d01605d15 | 5 s |
 | 3 | 0e33c4ab-96d8-4df2-963d-63d763d5cc00 | 5 s |
-| 4 | 4d70b767-32a3-4e92-ae34-506ffe4d39e1 | 4 s |
+| 4 | 41f9ec5b-9fd7-44e5-9a7d-e14752d3756a | 4 s (redo: leggings still; old 4d70b767 unused) |
 | 5 | 56255570-0888-4cde-8fe1-0eaa5e58b8da | 6 s |
 | 6 | bca3b4a0-1d08-4ed3-82b5-c9062cc231ba | 9 s |
 | 7 | 58407db9-86c3-4421-8073-14f922f3ab33 | 7 s |
