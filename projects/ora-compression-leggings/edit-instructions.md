@@ -3,7 +3,7 @@ PROJECT: "Compression leggings" (ORA, glass-body Pixar 3D animated ad, 9:16, 108
 INPUTS
 1. Audio track: the ElevenLabs voiceover. It is the clock: every shot starts on the first words of its line (table below).
 2. Clips: 22 Higgsfield clips (Kling 3.0, silent). Filenames are hf_<date>_<time>_<job id>.mp4. Match each file to its shot by the job id prefix in the table, not by upload order (clips 1 and 4 were redone, so they are the newest files).
-3. Optional: the inspo ad, for caption style and pacing only. Do not reuse its footage or audio.
+3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for two things: (a) the look of the hook card, which appears in shot 1 only, and (b) the caption style, used on every shot. Nothing else in it applies: not its character, footage, framing, text or audio. All visuals come from our 22 clips.
 
 SHOT LIST (VO line = what the voice says during the shot; the first words are the anchor)
 | Shot | VO line | Clip |
@@ -39,15 +39,24 @@ CLIP LENGTHS
 - Keep every shot as its own cut (no merging): use per-shot min_shot so short shots (4, 18, 21) stay on screen.
 - Shot 19 is the transformation: the sludge drains out of her legs during the clip. Use the part of the clip where the draining happens; do not cut it off.
 
-CAPTIONS (match the inspo: white text, bold rounded sans-serif, sentence case)
-- White bold rounded sans-serif in sentence case (not all caps), with a dark soft outline/shadow so it reads on any background, no box behind it.
-- 2-5 words per chunk, max 2 lines, centred, no punctuation except apostrophes.
-- Position: lower-middle, about 70% of the frame height. Move it up per shot when it would cover her face, the pouch label, or the sludge/veins in the cutaways (shots 2, 5, 6, 11-14, 19).
-- Caption text = the script above, exact spelling ("Ora", "hesperidin", "butcher's broom", "centella", "maritime pine bark", "B6", "60%").
+HOOK (shot 1 only; copy the look of the card in the screenshot, NOT its words)
+- White rounded card at the top (about 5% to 21% of the height), ~90% of the width, centred. Bold condensed font, Title Case. Line 1 black, line 2 red, ending with the 💀 emoji.
+- Our text, on two lines (no slash or separator shown on screen):
+  Line 1 (black): What Your Leggings Can't Do
+  Line 2 (red):   For Your Thighs 💀
+- On screen from 0:00 until the cut into shot 2, then gone for the rest of the video.
+
+CAPTIONS (every shot; copy the caption style in the screenshot, e.g. "HERE'S WHAT HAPPENS")
+- Bold condensed sans-serif (Impact-like), ALL CAPS, white with a thin dark outline and a soft drop shadow, no box behind it.
+- One key word per chunk in yellow (as "HAPPENS" in the screenshot). Always yellow: ORA, SLUDGE, LEGGINGS, HESPERIDIN, 60%, and the ingredient names.
+- 2-3 words per chunk, one line, centred, no punctuation.
+- Position: lower-middle, about 74% of the frame height, as in the screenshot. Move it up per shot when it would cover her face, the pouch label, or the sludge/veins in the cutaways (shots 2, 5, 6, 11-14, 19).
+- Captions also run under the hook card during shot 1, like the screenshot.
+- Caption text = our script above, exact spelling ("Ora", "hesperidin", "butcher's broom", "centella", "maritime pine bark", "B6", "60%").
 
 TEXT OVERLAYS
-- None, except shot 22: "60% OFF" in large bold text near the bottom, only if this offer is real (ask me if unsure). No hook card.
+- Shot 22: "60% OFF" in large bold yellow text near the bottom, above the captions, pulsing gently. The offer is real.
 
 AUDIO
 - Voice = the ElevenLabs track. No music and no SFX unless I send them.
-- Final loudness -14 LUFS; run the usual QC and check every cut, caption and the shot 19 transformation frame by frame before calling it done.
+- Final loudness -14 LUFS; run the usual QC and check every cut, caption, the hook card and the shot 19 transformation frame by frame before calling it done.
