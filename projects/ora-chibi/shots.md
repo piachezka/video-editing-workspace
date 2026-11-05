@@ -16,14 +16,14 @@ gown not lifted), 13 (calves/ankles only, no thigh close-ups).
 | 6 | After a few weeks, | MID | ab04947c-0563-4405-8af5-2ea73fcfa9d9 |
 | 7 | Your evenings feel different. | MID | 9923a078-b8a4-4a4d-b2fd-b1fdf08f0f80 |
 | 8 | No need to put your feet up. | MID | a1dac1d2-a7e2-4dcd-8af3-cd7112446ffe |
-| 9 | Your thighs look smoother in the mirror. | MID | 5dd69f59-41ea-48e2-851c-d94b587cdc53 |
+| 9 | Your thighs look smoother in the mirror. | MID | f6dcefaa-87c5-4de3-8b9d-03c74d305a00 (redo: over-shoulder mirror) |
 | 10 | Your lower legs look less puffy | MID | 27818cbf-0480-4a2d-884c-5bbb9b831536 |
 | 11 | Then one day, it really hits you. | AFTER | f15e7836-4e50-46b9-825a-e0340949cb33 |
-| 12 | You catch your reflection at night, | AFTER | 956343cf-ec32-443a-ac92-2c686f61544a |
+| 12 | You catch your reflection at night, | AFTER | 295d5ec6-0855-4f62-bb06-e47ef33fdc70 (redo: over-shoulder mirror) |
 | 13 | Tighter, less swollen, | AFTER | 778e485d-857e-4db9-a8d5-45c58bc13d8c |
 | 14 | And you stop hiding them. | AFTER | 70dff51f-a207-4f4b-b275-f9cb1177f8d4 |
 | 15-19 | That's because Ora ... / ingredients | - | REUSE |
 | 20 | And the best part? You didn't diet. | AFTER | 376c1309-d8d5-468f-b7e3-c61d983e5630 |
 | 21 | You didn't change your routine. | AFTER | 7ce86abd-ed1c-4767-851f-d67209f5f5ef |
-| 22 | You didn't wear anything. | AFTER | 6fadf7c4-f129-4d99-9f37-d1444985605f |
+| 22 | You didn't wear anything. | AFTER | 98033ed7-6ed3-45bf-ae26-0d4cf776cd28 (redo: over-shoulder mirror) |
 | 23-24 | You just took one gummy a day. / Get 60% off | - | REUSE |
