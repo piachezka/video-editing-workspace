@@ -41,3 +41,31 @@
 | 22 | If you see the button, | pouch + gummies on counter | c6235a72-b43b-4e40-b9fb-7e1067a262f5 |
 
 Rule: a redo = 1 frame per shot (no extra variants unless asked).
+
+## Clips (Kling 3.0 Pro, 9:16, sound off), submitted one by one in order 1 -> 22 (verified by creation time)
+Lengths estimated from the script at ~0.45 s/word + 1 s margin (no VO yet); trim the end in the edit.
+
+| # | Clip job | Duration |
+|---|---|---|
+| 1 | c3ef8921-e7b4-40aa-ab77-d57242bb425c | 5 s |
+| 2 | 180ff2e3-5537-45b1-9c5f-645d01605d15 | 5 s |
+| 3 | 0e33c4ab-96d8-4df2-963d-63d763d5cc00 | 5 s |
+| 4 | 4d70b767-32a3-4e92-ae34-506ffe4d39e1 | 4 s |
+| 5 | 56255570-0888-4cde-8fe1-0eaa5e58b8da | 6 s |
+| 6 | bca3b4a0-1d08-4ed3-82b5-c9062cc231ba | 9 s |
+| 7 | 58407db9-86c3-4421-8073-14f922f3ab33 | 7 s |
+| 8 | daba218d-f1e3-4277-a9d9-daaa2cfd2751 | 5 s |
+| 9 | 930304e0-854e-4750-8c5c-92619b3110f8 | 5 s |
+| 10 | 969bc2a5-5951-4c3d-8822-1cb00da38457 | 6 s |
+| 11 | 887e93f8-23c5-43e8-b314-ea35ae7111c1 | 10 s |
+| 12 | 47b65cc3-6d80-4844-81b8-e3a0fe22d920 | 10 s |
+| 13 | af82dde2-558a-4df9-9382-3b54832d6400 | 7 s |
+| 14 | 74a68584-6c21-4529-84a8-2f971e377796 | 10 s |
+| 15 | 6fe1f74b-cbd6-43ab-a4ed-29de98ce6cc2 | 7 s |
+| 16 | f5fa09d7-c0aa-4a4a-b9ff-e7da2e0710c6 | 8 s |
+| 17 | 62edebc9-6ad6-465b-af3c-aeb52b9334aa | 7 s |
+| 18 | 1dde92f1-3cbf-43de-b1d1-23397fd1fdd3 | 4 s |
+| 19 | ffc6dec8-4b68-4b05-afd1-29a254b32d17 | 7 s (sludge drains on screen) |
+| 20 | f92beefd-1ff0-40c5-8cda-e01966939e2c | 6 s |
+| 21 | 79dca4ca-aa90-4ffa-be3f-85d462b37d09 | 3 s |
+| 22 | adbe3827-7cf0-4d75-bfbe-68201e01778d | 9 s |
