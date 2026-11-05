@@ -30,3 +30,28 @@ All on-screen text (AGE 25/45, NOT FAT = SLUDGE, HESPERIDIN + arrow, red X's, TI
 | 20 | No diet. No squats. | AFTER | 46b6b418-a190-495d-b7d4-7550cd771569 |
 | 21 | It's called Ora. | pouch + gummy | 3f85cce9-d5b3-49bc-87b3-b16e34e0e5ef |
 | 22 | One gummy a day. | pouch + gummy | 8c5a56e4-4a5a-4af0-9a0f-cab62fd209b8 |
+
+Clip 20 first frame replaced by redo `60f53c8a-3fe7-4aa7-b9ad-7f5882e45ea8` (fixed eyes and legs).
+
+## Clips (Kling 3.0 Pro, 9:16, sound off), submitted one at a time in order
+
+REWRITE clips 12, 13, 14, 17, 19, 22 have no video (stills only). Clip 20 is a static-camera video.
+
+| # | Clip job | Duration |
+|---|---|---|
+| 1 | 4b894636-fb9f-443d-b35d-4c99f8c6ec5b | 4 s |
+| 2 | 931a3f62-93e4-48da-a9c8-46d988da1586 | 4 s |
+| 3 | 7c493977-a6c0-40aa-8e99-b83e6eb821b3 | 7 s |
+| 4 | e323a660-907a-47ea-999e-3dbfe1cf1e7a | 5 s |
+| 5 | a947f975-fff0-45fb-a834-0840dfcb5aab | 4 s |
+| 6 | 06b043d2-b3bd-41ee-84bc-cf9cde6d98d2 | 5 s |
+| 7 | eeec1292-6079-4ea4-addc-639b2453459f | 4 s |
+| 8 | 6a0af79b-d52d-4e40-8366-c34f1877740a | 3 s (trim to ~2 s) |
+| 9 | 7f25df92-f750-4dbc-bd2d-8be9cf6be10f | 4 s |
+| 10 | a9d2e9dc-b604-4788-9063-6c6694151dba | 3 s |
+| 11 | 924d8f7d-88d5-4332-a470-59c320a1ed4f | 4 s |
+| 15 | ce5cb04f-30a8-4ed8-a4b5-17c0c6b0ec16 | 4 s |
+| 16 | 89d48ad3-48d0-4af4-a6e6-f3efe167b233 | 5 s |
+| 18 | 5449e19a-ff5c-4a02-8674-7de511a2cd32 | 3 s |
+| 20 | 3d9c0605-cf4b-49f1-8e4e-9030d3b88c2b | 4 s (static camera) |
+| 21 | 1ba70c42-e1e4-4890-abb7-5ac47c7e2d4f | 3 s (trim to ~2 s) |
