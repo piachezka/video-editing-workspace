@@ -17,9 +17,9 @@
 
 | # | VO line (starts with) | State | First frame job |
 |---|---|---|---|
-| 1 | If you wear compression leggings every day | BEFORE (leggings on, mirror) | 2d2fd2f6-7b87-4804-84b0-a7da3363ca9e |
+| 1 | If you wear compression leggings every day | BEFORE (leggings on, mirror) | d616d98d-d491-49a0-971c-af73ad559211 (redo: mirror + fuller legs) |
 | 2 | and your thighs still look exactly the same, | BEFORE legs, sludge | f9c6d319-4af1-4fb1-b3be-a977466f1a17 |
-| 3 | watch this before you buy another pair. | BEFORE, shopping app | c4ba180d-7b16-443a-93a3-ae45abdf7038 |
+| 3 | watch this before you buy another pair. | BEFORE, shopping app | a56c9749-ee18-4611-985e-a12e7a5a3d44 (redo: phone screen faces her) |
 | 4 | Compression leggings have one job. | leggings on bed | d1c1e748-6527-4c74-be92-69b468c6e318 |
 | 5 | They squeeze your legs from the outside. That's it. | cutaway: fabric squeezes, sludge stays | a1d8b7d1-ddde-48b1-b302-5105a76ea087 |
 | 6 | The second you peel them off, | cutaway: sludge settles back | edb6ef18-83a1-46d8-9c44-8b3c1925187d |
@@ -39,3 +39,5 @@
 | 20 | not just the hours you're squeezed | AFTER, park walk, clean legs | ae17d821-8fda-4f69-bec6-68a09a34a1ed |
 | 21 | That's Ora. | AFTER selfie with pouch | b4fca6b3-60b0-4076-a83a-7fc6a3bb4562 |
 | 22 | If you see the button, | pouch + gummies on counter | c6235a72-b43b-4e40-b9fb-7e1067a262f5 |
+
+Rule: a redo = 1 frame per shot (no extra variants unless asked).
