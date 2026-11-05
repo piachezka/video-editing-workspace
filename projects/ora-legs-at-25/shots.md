@@ -55,3 +55,6 @@ REWRITE clips 12, 13, 14, 17, 19, 22 have no video (stills only). Clip 20 is a s
 | 18 | 5449e19a-ff5c-4a02-8674-7de511a2cd32 | 3 s |
 | 20 | 3d9c0605-cf4b-49f1-8e4e-9030d3b88c2b | 4 s (static camera) |
 | 21 | 1ba70c42-e1e4-4890-abb7-5ac47c7e2d4f | 3 s (trim to ~2 s) |
+
+Edit note: clip 8 shows a brunette woman (not the narrator) top-right. Fix in the edit by zooming ~1.5x
+into the lower part of the frame (oranges + hand), cropping her face out; check every frame of the clip.
