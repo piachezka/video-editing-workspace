@@ -27,3 +27,25 @@ gown not lifted), 13 (calves/ankles only, no thigh close-ups).
 | 21 | You didn't change your routine. | AFTER | 7ce86abd-ed1c-4767-851f-d67209f5f5ef |
 | 22 | You didn't wear anything. | AFTER | 98033ed7-6ed3-45bf-ae26-0d4cf776cd28 (redo: over-shoulder mirror) |
 | 23-24 | You just took one gummy a day. / Get 60% off | - | REUSE |
+
+## Clips (Kling 3.0 Pro, 9:16, sound off), submitted one by one in order 2 -> 14, 20 -> 22
+Lengths estimated from the script (~0.45 s/word + 1 s); trim the end in the edit. Clip 1 and REUSE clips from the user.
+
+| # | Clip job | Duration |
+|---|---|---|
+| 2 | d89867d2-a587-4c9b-aa81-ed762134d624 | 6 s |
+| 3 | c55b8098-bb5e-4e95-b978-3a4a091ca7e5 | 6 s |
+| 4 | 88f10e91-0467-486a-af4c-698e645cb439 | 5 s |
+| 5 | eea710bd-e689-48f2-b61b-07a54b299d13 | 12 s |
+| 6 | 283f6d85-3bcf-49b2-8de4-4d52c825a43f | 5 s |
+| 7 | 79e9b196-35b8-4fdc-afbb-6562a29cf2de | 6 s |
+| 8 | ef00ca5f-b3c2-47c3-81d1-708749f94db9 | 5 s |
+| 9 | 4581250d-a703-4b46-8f74-c4e534e0621a | 5 s |
+| 10 | 435d231f-eeca-440a-85e4-d85454f3c559 | 6 s |
+| 11 | 2bf8c51e-a6fc-4809-82fe-3cc3baa0e33c | 5 s |
+| 12 | 55fa5aad-69f2-4bfc-9b6a-dcc4b8b4b827 | 13 s |
+| 13 | f54e0296-cece-4750-a62f-e625c703ebe7 | 5 s |
+| 14 | 94f1eafc-d896-40a1-91fe-30064b35a5df | 4 s |
+| 20 | 8850adc7-46f6-4b07-a4d2-021aebbe623c | 5 s |
+| 21 | 861d69a0-fc27-4c58-8a1b-d7e46683dfce | 4 s |
+| 22 | f6adb045-a53e-4756-84e8-d8a36787fea1 | 4 s |
