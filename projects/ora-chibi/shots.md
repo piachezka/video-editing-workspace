@@ -51,6 +51,6 @@ Lengths estimated from the script (~0.45 s/word + 1 s); trim the end in the edit
 | 22 | f6adb045-a53e-4756-84e8-d8a36787fea1 | 4 s |
 
 ## Redos (2026-11-07)
-- Clip 4 first frame redo (both boots on, starting to pull one off): e4b3b7bc-c0c6-4df3-8d02-dec6c3276e80 - WAITING FOR APPROVAL, no video yet. Old clip 4 video 88f10e91 to be replaced.
+- Clip 4 first frame redo #2 (legs hanging down, both boots, pulling one by the heel): 24e9b6dd-9fe6-47c5-9c8b-aac5528f2cf0 - WAITING FOR APPROVAL (redo #1 e4b3b7bc rejected: odd leg, extra hand), no video yet. Old clip 4 video 88f10e91 to be replaced.
 - Clip 5 video redo (sock keeps its size, stays in hand): 412bf53c-6023-46b7-9055-9f434e9d7bd6 (replaces eea710bd).
 - Clip 7 video redo (hands empty after tossing jeans): 92e7dac1-2c42-442f-b31b-59485af196fc (replaces 79e9b196).
