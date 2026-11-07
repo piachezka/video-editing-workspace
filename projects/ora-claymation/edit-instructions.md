@@ -51,17 +51,24 @@ TELEPHONE EFFECT (shots 3 and 24 only)
 - Only the part inside Jen's quote gets the effect: in shot 24, "She goes," stays normal and the effect starts on "Why do you think...". Shot 3 is the full line.
 - Keep the filtered lines at the same perceived loudness as the rest.
 
-NO HOOK: do not add any hook card or title; I will add the hook myself after the edit. Leave the top ~25% of shot 1 free of captions.
+HOOK CARD (shot 1 only)
+- White rounded card, ~90% of the width, centred horizontally, placed in the MIDDLE of the frame (around 40-60% of the height). Bold condensed font, Title Case. Line 1 black, line 2 red, ending with the 💀 emoji.
+- Text, on two lines (no slash or separator shown on screen):
+  Line 1 (black): I Accidentally Slimmed My Legs
+  Line 2 (red):   At 45 💀
+- It must NOT cover her face at any point in shot 1 (she turns side to side and lifts her hands to her face). Check every frame; if the face would overlap, move the card down (over her torso/shorts), never up over her face.
+- On screen from 0:00 until the cut into shot 2, then gone for the rest of the video.
+- No captions during shot 1 (the VO line is the hook itself); captions start at shot 2.
 
-CAPTIONS (every shot; copy the big caption style in the screenshot, e.g. "DIMPLING LESS OBVIOUS")
+CAPTIONS (shots 2-27; copy the big caption style in the screenshot, e.g. "DIMPLING LESS OBVIOUS")
 - Bold condensed sans-serif (Impact-like), ALL CAPS, white with a thin dark outline and a soft drop shadow, no box behind it.
 - One key word per chunk in yellow (as "OBVIOUS" in the screenshot). Always yellow: ORA, SLUDGE, COTTAGE CHEESE, 45, the ingredient names (BUTCHER'S BROOM, PINE BARK, CENTELLA, HESPERIDIN), FREE, SIXTY-DAY.
 - 2-3 words per chunk, one line, centred, no punctuation.
-- Position: lower-middle, about 74% of the frame height, as in the screenshot. Move it up per shot when it would cover a face, her thighs in the leg shots (1, 6, 7, 12, 14), the gummy (10), the pouch label (15, 24-27), or the action in the cutaways (16-22).
+- Position: lower-middle, about 74% of the frame height, as in the screenshot. Move it up per shot when it would cover a face, her thighs in the leg shots (6, 7, 12, 14), the gummy (10), the pouch label (15, 24-27), or the action in the cutaways (16-22).
 - Caption text = the script above, exact spelling ("Ora", "Jen", "1998", "butcher's broom", "pine bark", "centella", "hesperidin", "sixty-day").
 
-NO OTHER TEXT OVERLAYS (no week labels, no arrows, no X or check marks, no offer badge).
+NO OTHER TEXT OVERLAYS besides the hook card (no week labels, no arrows, no X or check marks, no offer badge).
 
 AUDIO
 - Voice = the ElevenLabs track. No music and no SFX unless I send them.
-- Final loudness -14 LUFS; run the usual QC and check every cut, caption and both telephone-effect lines frame by frame before calling it done.
+- Final loudness -14 LUFS; run the usual QC and check every cut, caption, the hook card (face never covered) and both telephone-effect lines frame by frame before calling it done.
