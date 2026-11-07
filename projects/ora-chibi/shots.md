@@ -51,7 +51,7 @@ Lengths estimated from the script (~0.45 s/word + 1 s); trim the end in the edit
 | 22 | f6adb045-a53e-4756-84e8-d8a36787fea1 | 4 s |
 
 ## Redos (2026-11-07)
-- Clip 4 first frame redo #2 (legs hanging down, both boots, pulling one by the heel): 24e9b6dd-9fe6-47c5-9c8b-aac5528f2cf0 APPROVED (redo #1 e4b3b7bc rejected). Clip 4 video: 0e035b41-f71c-4415-aa41-e51aed36d5f5 (replaces 88f10e91).
+- Clip 4 first frame redo #2 (legs hanging down, both boots, pulling one by the heel): 24e9b6dd-9fe6-47c5-9c8b-aac5528f2cf0 APPROVED (redo #1 e4b3b7bc rejected). Clip 4 video: b45cfad2-fa10-4a4c-9abd-fef6cd0b7f94 (redo: boot clearly pulled down and off; replaces 0e035b41 which looked like putting it on, and 88f10e91).
 - Clip 5 video redo (sock keeps its size, stays in hand): 412bf53c-6023-46b7-9055-9f434e9d7bd6 (replaces eea710bd).
 - Clip 7 video redo (hands empty after tossing jeans): 92e7dac1-2c42-442f-b31b-59485af196fc (replaces 79e9b196).
 - Clip 5 video redo 412bf53c still bad (sock not worn properly, vanishes). Cause: first frame b6d746e9 shows the sock half off.
