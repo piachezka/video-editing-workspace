@@ -7,7 +7,7 @@ INPUTS
    - REUSE_1.mp4 (19.7 s): ONE clip that covers shots 15 to 19 together.
    - REUSE_2.mp4 (6.1 s): ONE clip that covers shots 23 and 24 together.
    Both REUSE files are 720x1288: scale/crop to 1080x1920 (cut the extra 8 px, keep the centre). Their audio tracks are silent: mute them.
-3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for (a) the look of the hook card, which appears in shot 1 only, and (b) the caption style, used on every shot. Nothing else in it applies: not its character, footage, framing or audio.
+3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for the big caption (e.g. "DIMPLING LESS OBVIOUS"), used on every shot. Ignore everything else in it: the small grey labels ("TIGHTER", "LESS SWOLLEN", "LESS DIMPLING"), the character, footage, framing and audio. Do not add those labels.
 
 SHOT LIST (VO line = what the voice says during the shot; the first words are the anchor)
 | Shot | VO line | Clip |
@@ -51,23 +51,17 @@ CLIP LENGTHS (Higgsfield clips)
 - Keep every shot as its own cut (no merging): use per-shot min_shot so short shots (8, 14, 16, 18, 21, 22, 23) stay on screen.
 - Shot 4: use the part where she pulls the boot off and leans back. Shot 5: use the part where the sock comes off and she wiggles her toes.
 
-HOOK (shot 1 only; copy the look of the card in the screenshot)
-- White rounded card at the top (about 5% to 21% of the height), ~90% of the width, centred. Bold condensed font, Title Case. Line 1 black, line 2 red, ending with the 💀 emoji.
-- Text, on two lines (no slash or separator shown on screen):
-  Line 1 (black): Here's What 1 Gummy A Day
-  Line 2 (red):   Does To Your Legs 💀
-- On screen from 0:00 until the cut into shot 2, then gone for the rest of the video.
+NO HOOK: do not add any hook card or title; I will add the hook myself after the edit. Leave the top ~25% of shot 1 free of captions.
 
-CAPTIONS (every shot; copy the caption style in the screenshot, e.g. "HERE'S WHAT HAPPENS")
+CAPTIONS (every shot; copy the big caption style in the screenshot, e.g. "DIMPLING LESS OBVIOUS")
 - Bold condensed sans-serif (Impact-like), ALL CAPS, white with a thin dark outline and a soft drop shadow, no box behind it.
-- One key word per chunk in yellow (as "HAPPENS" in the screenshot). Always yellow: ORA, GUMMY, the ingredient names, 60%.
+- One key word per chunk in yellow (as "OBVIOUS" in the screenshot). Always yellow: ORA, GUMMY, the ingredient names, 60%.
 - 2-3 words per chunk, one line, centred, no punctuation.
 - Position: lower-middle, about 74% of the frame height, as in the screenshot. Move it up per shot when it would cover her face, her legs/ankles in the leg shots (5, 10, 13), the gummy, the pouch, or the "BUTCHER'S BROOM" label.
-- Captions also run under the hook card during shot 1.
 - Caption text = the script above, exact spelling ("Ora", "butcher's broom", "hesperidin", "maritime pine bark", "centella asiatica", "6:00 p.m.", "60%").
 
 NO OTHER TEXT OVERLAYS (no week labels, no arrows, no X or check marks), except the new 60% badge on shot 24 and the text already in the REUSE clips.
 
 AUDIO
 - Voice = the ElevenLabs track. No music and no SFX unless I send them.
-- Final loudness -14 LUFS; run the usual QC and check every cut, caption, the hook card and the shot 24 badge frame by frame before calling it done.
+- Final loudness -14 LUFS; run the usual QC and check every cut, caption and the shot 24 badge frame by frame before calling it done.
