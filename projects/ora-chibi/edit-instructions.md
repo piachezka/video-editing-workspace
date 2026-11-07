@@ -3,8 +3,8 @@ PROJECT: "One gummy a day" (ORA, chibi Pixar 3D animated ad, 9:16, 1080x1920)
 INPUTS
 1. Audio track: the ElevenLabs voiceover. It is the clock: every shot starts on the first words of its line (table below).
 2. Clips:
-   - 16 Higgsfield clips (Kling 3.0, silent). Filenames are hf_<date>_<time>_<job id>.mp4: match each file to its shot by the job id prefix in the table, not by upload order.
-   - 8 other clips renamed by shot number: 01.mp4 (shot 1) and the REUSE clips 15.mp4, 16.mp4, 17.mp4, 18.mp4, 19.mp4, 23.mp4, 24.mp4.
+   - 17 Higgsfield clips (silent). Filenames are hf_<date>_<time>_<job id>.mp4: match each file to its shot by the job id prefix in the table, not by upload order. Shot 1 is 720x1280: scale it up to 1080x1920 like the others.
+   - 7 REUSE clips renamed by shot number: 15.mp4, 16.mp4, 17.mp4, 18.mp4, 19.mp4, 23.mp4, 24.mp4.
 3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for (a) the look of the hook card, which appears in shot 1 only, and (b) the caption style, used on every shot. Nothing else in it applies: not its character, footage, framing or audio.
 
 SHOT LIST (VO line = what the voice says during the shot; the first words are the anchor)
