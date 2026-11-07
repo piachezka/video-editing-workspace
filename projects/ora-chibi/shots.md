@@ -54,3 +54,6 @@ Lengths estimated from the script (~0.45 s/word + 1 s); trim the end in the edit
 - Clip 4 first frame redo #2 (legs hanging down, both boots, pulling one by the heel): 24e9b6dd-9fe6-47c5-9c8b-aac5528f2cf0 APPROVED (redo #1 e4b3b7bc rejected). Clip 4 video: 0e035b41-f71c-4415-aa41-e51aed36d5f5 (replaces 88f10e91).
 - Clip 5 video redo (sock keeps its size, stays in hand): 412bf53c-6023-46b7-9055-9f434e9d7bd6 (replaces eea710bd).
 - Clip 7 video redo (hands empty after tossing jeans): 92e7dac1-2c42-442f-b31b-59485af196fc (replaces 79e9b196).
+- Clip 5 video redo 412bf53c still bad (sock not worn properly, vanishes). Cause: first frame b6d746e9 shows the sock half off.
+  New clip 5 first frame (wider shot, sock fully worn, about to pull it off): 1de680d0-d89d-428d-be39-3d10a4506ac4 - WAITING FOR APPROVAL.
+  (Foot close-up attempt 6b0fb270 was blocked by the filter.)
