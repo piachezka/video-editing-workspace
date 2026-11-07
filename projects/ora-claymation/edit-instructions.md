@@ -3,7 +3,7 @@ PROJECT: "Slim legs at 45 - Animated AI" (ORA, claymation stop-motion style ad, 
 INPUTS
 1. Audio track: the ElevenLabs voiceover. It is the clock: every shot starts on the first words of its line (table below).
 2. Clips: 27 Higgsfield clips (Kling 3.0, silent). Filenames are hf_<date>_<time>_<job id>.mp4: match each file to its shot by the job id prefix in the table, not by upload order (26 and 27 were rendered at the same time and may be swapped in upload order). If any clip is not 1080x1920, scale it to 1080x1920.
-3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for the big caption (e.g. "DIMPLING LESS OBVIOUS"), used on every shot. Ignore everything else in it: small grey labels, the character, footage, framing and audio. Do not add those labels.
+3. One screenshot of an inspo ad. It is a STYLE REFERENCE ONLY for the big caption (e.g. "DIMPLING LESS OBVIOUS"), used on shots 2-27. Ignore everything else in it: small grey labels, the character, footage, framing and audio. Do not add those labels.
 
 SHOT LIST (VO line = what the voice says during the shot; the first words are the anchor)
 | Shot | VO line | Clip |
