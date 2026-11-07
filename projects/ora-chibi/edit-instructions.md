@@ -10,7 +10,7 @@ INPUTS
 SHOT LIST (VO line = what the voice says during the shot; the first words are the anchor)
 | Shot | VO line | Clip |
 |---|---|---|
-| 1 | "Here's what happens when you take one Ora gummy every single day." | 01.mp4 |
+| 1 | "Here's what happens when you take one Ora gummy every single day." | hf ...4685f |
 | 2 | "At first, nothing crazy. You take one gummy in the morning," | hf ...d8986 |
 | 3 | "you go about your day, and honestly, you forget about it." | hf ...c55b8 |
 | 4 | "Then after about a week, something small." | hf ...b45cf |
