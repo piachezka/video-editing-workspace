@@ -17,3 +17,4 @@ Top text, captions and the "dr*gs" bleep go in the edit.
 
 Frame 6 redo (mother's head was twisted / weird face): c5211c23-a11a-4fac-897c-f899275e8dc3 (old 08e80cc7)
 Frame 6 redo 2 (no old frame as ref; wife front-facing, head aligned): c6e46a34-3db2-414c-b4c8-3a8078f99e5b
+| 6 | 978fc056-0bb0-4fac-8894-c03d2c869517 (7 s, from frame c6e46a34) |
