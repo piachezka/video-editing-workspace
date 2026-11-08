@@ -18,7 +18,7 @@ frame (montage repeats it in the edit).
 | 8 | b891f0b1-38a2-4981-9ca9-3b1b9cd1a480 |
 | 9 | 4ab8a0c5-a12b-4434-96d6-9b1b27fc77e1 |
 | 10 | 092ddc47-1368-4a68-87d5-66adbb20f1b3 |
-| 11 | aff8c80a-4090-41ec-8a68-ecd732fc9c80 |
+| 11 | 47212459-c7ad-4136-937d-7c3374dafa64 (redo: heavier legs) |
 | 12 | aee16824-ba18-4ceb-bf37-bdc517a7c234 |
 | 13 | 5e49b71d-e047-408b-a2e1-6f5155eba26e |
 | 14 | 40884f00-8380-49b7-9141-8bfa6e69249f |
