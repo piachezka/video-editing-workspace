@@ -18,7 +18,7 @@ Clips: audio ON (dialogue/VO in the clip itself).
 | 8 | 29a56c13-d442-4ce3-bc62-d074f96a527c (redo: tighter/new angle, no empty stool or foreground blob) | 5a612d1d-c236-4207-b2c7-cf34bcb75206 | 6 s |
 | 9 | a8500bb5-c6b7-459f-9dcc-fa3912e2f7c8 (redo: tighter/new angle, no empty stool or foreground blob) | 34424f2b-cd3c-4936-9b50-482d309ee51e | 5 s |
 | 10 | 1dd79e88-ef05-4f1b-a5e0-eb23640547e3 (redo: tighter/new angle, no empty stool or foreground blob) | eaad8444-9d0a-4418-a82b-596b7378ec0c | 6 s |
-| 11 | 23cb4cc3-47a4-40ac-804e-873680aa8af3 | 776afede-01e5-4ee4-a2f5-307e70ada6f8 | 5 s |
+| 11 | 23cb4cc3-47a4-40ac-804e-873680aa8af3 | 776afede (NSFW) + retry e5198b0d (NSFW) | 5 s |
 | 12 | 0338515e-cdc6-4710-b513-523b992a890b | 3fc77a5a-e043-442b-a10d-dd4197d2c1d5 | 7 s |
 | 13 | 80b9e0b3-8621-4ecd-8b3f-6bcd87be68ea | 0f4abca3-99a7-4ccc-94db-cf1e93439f76 | 6 s |
 | 14 | a58ba5b0-632c-4658-a452-eb63fa5aaf27 | 43ee3bb4-db43-4971-8564-4f0399102d5c | 4 s |
@@ -31,7 +31,7 @@ Clips: audio ON (dialogue/VO in the clip itself).
 | 21 | 5d0f5ed7-7280-4a79-80f6-c543de338fb4 (redo: tighter/new angle, no empty stool or foreground blob) | 322669d6-29b2-4cdf-8a68-8b18f9cbcc52 | 3 s |
 | 22 | 7be56b7f-22f9-450f-b675-607161e6e09b (redo: tighter/new angle, no empty stool or foreground blob) | 9ce30f44-4003-4843-be46-a35e00ee9bdf | 4 s |
 | 23 | a9f40e43-b17a-4ab7-b4b6-8babc3ee2d6b | b6bc05c3-ca08-4d3e-9d1b-61a03ffa6fbd | 4 s |
-| 24 | c5738abd-072c-466e-a8e2-dbc5a60a29d5 | d3b4a0a0-3a87-43e2-aacd-d19890352d48 | 9 s |
+| 24 | c5738abd-072c-466e-a8e2-dbc5a60a29d5 | d3b4a0a0 (NSFW) + retry 921aa33f (NSFW) | 9 s |
 | 25 | edd766e0-dd31-43ea-9b00-bb09c1035832 | 625e29db-749c-4cac-9884-3f79dc61e1ba | 11 s |
 | 26 | 86ef4971-01ab-49c6-a86a-326c76248c50 | acda4176-bee2-44ab-aa2e-ca45a906cb2c | 8 s |
 | 27 | dc7af35b-c758-4a7c-9097-9795ec350a4b | 3a843731-4c5d-49f7-89e9-14885019e580 | 5 s |
