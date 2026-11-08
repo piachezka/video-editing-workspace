@@ -17,3 +17,15 @@ flat 2D cartoon style description. Looks, wardrobe and personalities kept.
 
 ORA POUCH: not generated (real pouch composited per brief; existing ref ade52642).
 ORA GUMMY: existing ref 6148f19a.
+
+## v2 (user's full original descriptions, bold sitcom-cartoon style; no show or celebrity names)
+| Ref | Job |
+|---|---|
+| NEW GIRL | a54b159b-2520-43f3-827f-ac343694fafd (first try 48c388f5 NSFW-blocked; body wording softened) |
+| NEW GIRL AFTER | 5b5a5e4e-9f2b-4050-8087-1f3d70fdd06a |
+| BOSS | ed1cc2cb-8c54-48db-a1f9-82510bf6d086 |
+| RECEPTIONIST | 0f380249-f533-4e95-82d2-43ae7e4961c1 |
+| COLLEAGUE 1 | 4d5938a2-425d-4135-8bde-282e9a653767 |
+| COLLEAGUE 2 | be5797d8-f0fa-46b2-b4cf-25ee9804310e |
+| SECURITY GUARD | 9918a16a-ee19-4157-bcc7-97b0b91fc46c |
+| OFFICE EXTRAS | b4d2bbe2-0a8b-4979-baac-54b4a117a2fc |
