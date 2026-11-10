@@ -9,8 +9,8 @@ Clip 11 + 24: telephone effect / phonetic notes are for the edit/VO.
 
 | # | First frame job |
 |---|---|
-| 1 | a22846e5-3905-4bed-96ba-97c34f510a47 |
-| 2 | 1bebe209-fcd1-42c6-9aee-262d51ae1018 |
+| 1 | 065a9700-d94b-4ea5-b3da-c12cd7bf36f0 (redo: both hands visible) |
+| 2 | 97864d37-c6ee-493e-981a-e088c24c2789 (redo: correct mirror reflection) |
 | 3 | 75e58a3e-72d7-4f48-9f30-7e201ead017d |
 | 4 | c3e985cd-dc04-4321-bcd3-cafcde2cef16 |
 | 5 | 082bac0d-1a82-4c94-99f9-d6b03bb211b7 |
@@ -25,7 +25,7 @@ Clip 11 + 24: telephone effect / phonetic notes are for the edit/VO.
 | 14 | 922fe374-bf34-44e6-a346-d8a7db2203f2 |
 | 15 | 304da43f-fd18-4779-a564-56d97cf66443 |
 | 16 | a9a8bef9-aa29-47da-a4a6-3bd821184fb5 |
-| 17 | 7eaecaa0-3890-47c5-b633-3b2222f930eb |
+| 17 | efa18b15-12e6-460d-bd13-eb36f8e63676 (redo: facing mirror, reflection matches) |
 | 18 | c6595086-31d0-4493-80c8-8ecf3bc121e3 |
 | 19 | 40a56c07-4879-4e5d-9c82-1edc7e2aaae5 |
 | 20 | b3cea928-33af-42c0-b916-0ef2f9a8753d |
@@ -36,5 +36,5 @@ Clip 11 + 24: telephone effect / phonetic notes are for the edit/VO.
 | 25 | 2f7648fa-937e-4a7c-9ddf-8b58d110198d |
 | 26 | 759652f7-56db-47f4-813d-a05105066d81 |
 | 27 | 012898e5-24b6-4bee-9d0f-d68ccce7cb01 |
-| 28 | 21327753-f576-4ff9-8cb2-77617e551db8 |
+| 28 | ac7c2ca5-956b-4fa2-ba59-deefe6499f86 (redo: narrator clearly gives pouch to sister) |
 | 29 | e0cca85a-66a7-457f-8ee3-c823440e7e9c |
