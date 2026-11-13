@@ -13,7 +13,7 @@ professional endorsement; declined. Can be made with neutral wording if the user
 | 3 | 2 | b7a22cdd-cbd7-4f6e-a193-b1ecbb928acb | 5 s |
 | 4 | 2 | a5dd23ee-8c5f-4402-8b58-d11c7ad644a1 (redo: exactly 3 fingers, no gesture on sixty seconds; old 062199cd) | 8 s |
 | 5 | 2 | ec6f0c8f-ff53-4c22-9748-42fe5b2a33b2 | 7 s |
-| 6 | 2 | aeb9dd4c-dde1-4fb4-9abd-5ce650616fab | 8 s |
+| 6 | 2 | 682aa1a5-0d66-46b8-93db-b468c5806bed (redo: no water dripping from hand; old aeb9dd4c) | 8 s |
 | 7 | 2 | 265dc218-941c-4feb-b634-77f7b9e6891c | 4 s |
 | 8 | 2 | b92ed077-c7c1-4190-94c3-605017e1d997 | 8 s |
 | 9 | 2 | b7beb608-473f-43ed-bde1-04f3f7972321 | 9 s |
