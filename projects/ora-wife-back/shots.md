@@ -51,6 +51,6 @@ Contact sheets: frames_01-12.jpg, frames_13-22.jpg
 | 17 | 17942f85-0a18-4e5e-9da8-004ee183a395 | 4s |
 | 18 | fb9553e8-6af8-4cb7-8374-817c078671f2 | 11s |
 | 19 | a78e08e0-e49e-478a-8c3f-b516ef9a2b68 | 7s |
-| 20 | 7f609747-2e51-41ef-ad0b-cd88d774dcc4 | 9s |
-| 21 | 6403bb5e-0c10-4124-943d-607d8e16a551 | 8s |
+| 20 | 4febebd4-6c9b-4c41-9ae4-bd867a36d258 | 8s (v2, panes locked) |
+| 21 | de653b77-c409-4db6-aeb0-0b53c5bef436 | 8s (v2, static camera) |
 | 22 | 6810f0e3-a864-4eb4-a3d2-85a49250d5fa | 5s |
