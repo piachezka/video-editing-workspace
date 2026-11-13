@@ -8,3 +8,5 @@ Original characters. Named film-character references in the brief (e.g. specific
 | WIFE BEFORE | b668eb22-18b4-45e6-9486-130972bea46f |
 | WIFE AFTER (made from WIFE BEFORE for the same face) | 3cbe4431-148e-4ed3-b7d6-e2cd42b5fbb4 |
 | ORA POUCH + GUMMY (real photo) | e7fe7bf1-2558-4afe-976d-1d02bf5918cc |
+
+| WIFE AFTER v2 (slimmer, glam; replaces 3cbe4431) | add8064b-bc20-400a-bddf-63fda849f13d |

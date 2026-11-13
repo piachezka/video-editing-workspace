@@ -20,7 +20,7 @@ Refs: GEMMA BEFORE dbe2553a, GEMMA AFTER f36ad2c8, ORA POUCH/GUMMY e7fe7bf1. Fra
 | 13 | 0c4c99b8-9fed-49ae-8629-e941a0f34b49 | 03863384-5b6e-43cc-9a95-a73fd1834661 | 4 s | Let the hesperidin and butcher's broom do the work |
 | 14 | 98defe9d-d09e-4f75-b685-e62c673b37d0 | 6ab47c1a-0d94-4ef5-be2e-f26e8000935e | 3 s | while you go about your day. |
 | 15 | 58a39387-ba6f-40ba-b917-ae38c83e07bb | b99060c5-b5c7-4d21-9955-798e12b546c5 | 6 s | Hesperidin doesn't dissolve in water, so it doesn't belong in a tea or a dropper. |
-| 16 | 836a3a6f-ad3b-4a8b-a178-f5d829572de3 | e1b28a5d-05db-4be0-a0a7-0f5ee4bd65b3 | 7 s | Packed into a gummy, it reaches the tiny vessels in your lower belly, right where the leak is. |
+| 16 | 09970c93-2a61-4854-84d0-a86e945ccd48 (new, no body; old 836a3a6f NSFW) | 26f0bd93-e491-4145-9682-37165365b8b1 | 7 s | Packed into a gummy, it reaches the tiny vessels in your lower belly, right where the leak is. |
 | 17 | 9d7adc49-75b8-4917-854b-9780164122b0 | 168bee42-d900-4bfa-8909-b61e44ccae6a | 5 s | Over the next few hours, hesperidin seals the walls of those tiny vessels, |
 | 18 | 1028e2db-5e71-4e16-a248-6b6543200dea | afafb637-3df4-4bc5-a915-eb61cbf10c9b | 4 s | so fluid and waste stop seeping into your belly. |
 | 19 | 8a921689-6f0a-47ed-b6f7-fe5f4f0d5bb3 | 3a133c14-ec4c-473c-bb24-77c78e642491 | 3 s | Butcher's broom gets those vessels squeezing again. |
