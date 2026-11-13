@@ -27,3 +27,30 @@ Contact sheets: frames_01-12.jpg, frames_13-22.jpg
 | 20 | c6f20065-20c0-46a1-92e0-fe44da603cfe | Wife Before 3-pane gathering / pool / bed |
 | 21 | ac7b7eec-0149-4878-aefb-236adcc8b96b | 2 pouches on cream fabric |
 | 22 | 1627a7e9-fe00-4449-9d32-a31287d64c5d | Husband + Wife After on couch |
+
+## Clips (Kling 3.0 std 720p, sound OFF, 9:16)
+
+| # | Clip job | Length |
+|---|---|---|
+| 1 | c66209cc-558a-4e80-8b2a-fb8bbf6cb5f7 | 10s |
+| 2 | 02698b08-4176-454a-887d-de19adcc8287 | 3s |
+| 3 | 7efa2c2b-a54c-42c9-8a70-46a283448190 | 4s |
+| 4 | 3b89356b-874f-4d8b-aa6d-d6609401fe6f | 4s |
+| 5 | 4471b928-97c2-4908-a6c5-321a0300bec8 | 6s |
+| 6 | e2fd5517-253b-44c6-bf54-81a74e083148 | 4s |
+| 7 | 6a1f0f11-0ade-448e-af5e-0f01b2ce3cb1 | 7s |
+| 8 | 75927362-17f4-4d0f-8d23-fb962c79e816 | 5s |
+| 9 | 00392820-2bf8-4ebd-adba-4b9a7dad5792 | 4s |
+| 10 | a8297525-13f0-4d31-adbb-627636bf30b2 | 9s |
+| 11 | 95d6f992-a834-49e1-9777-38b8e1f7b9ca | 8s |
+| 12 | 00854070-6f0e-4196-92da-ee510375191d | 9s |
+| 13 | 1bfec95d-eb4e-4b8a-945a-69afb391ef7e | 4s |
+| 14 | 6fb7b094-f0bf-425d-8c13-971d8ed79efe | 10s |
+| 15 | 5b3869f1-ec35-43de-bdea-8ad18bd5725d | 7s |
+| 16 | 54a53f51-561f-4447-9004-cd1ec545709d | 8s |
+| 17 | 17942f85-0a18-4e5e-9da8-004ee183a395 | 4s |
+| 18 | fb9553e8-6af8-4cb7-8374-817c078671f2 | 11s |
+| 19 | a78e08e0-e49e-478a-8c3f-b516ef9a2b68 | 7s |
+| 20 | 7f609747-2e51-41ef-ad0b-cd88d774dcc4 | 9s |
+| 21 | 6403bb5e-0c10-4124-943d-607d8e16a551 | 8s |
+| 22 | 6810f0e3-a864-4eb4-a3d2-85a49250d5fa | 5s |
