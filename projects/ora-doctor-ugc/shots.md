@@ -20,7 +20,7 @@ professional endorsement; declined. Can be made with neutral wording if the user
 | 10 | 2 | 1678b8a2-0321-467e-b618-fe134c679930 | 6 s |
 | 11 | 2 | dd5c1ee8-f2b7-4b5b-bb61-22c226417c2a | 6 s |
 | 12 | 2 | 5411472f-e724-4c44-919e-1a25b65deab8 | 5 s |
-| 13 | 2 | 0cb7c8dc-d5c6-4dc5-a3f3-26ca89b46eb3 | 7 s |
+| 13 | 2 | b04b93d1-29f2-42af-81a8-fdced566c720 (redo: line said once, lips synced to the end; old 0cb7c8dc repeated the ending) | 6 s |
 | 14 | 2 | 112ecce4-9a53-461d-9014-b653d260db91 | 9 s |
 | 15 | 2 | 6ff90bfa-1ff7-4356-b93e-9d040e49474a | 7 s |
 | 16 | 2 | 7fa13132-8b83-4f18-ba4d-85e6d28072d6 | 4 s |
