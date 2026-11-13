@@ -21,7 +21,7 @@ professional endorsement; declined. Can be made with neutral wording if the user
 | 11 | 2 | dd5c1ee8-f2b7-4b5b-bb61-22c226417c2a | 6 s |
 | 12 | 2 | 5411472f-e724-4c44-919e-1a25b65deab8 | 5 s |
 | 13 | 2 | b04b93d1-29f2-42af-81a8-fdced566c720 (redo: line said once, lips synced to the end; old 0cb7c8dc repeated the ending) | 6 s |
-| 14 | 2 | 112ecce4-9a53-461d-9014-b653d260db91 | 9 s |
+| 14 | 2 | 1d81c325-5bee-4e2c-a227-102a9b2244d0 (redo: 3-finger sign = thumb+index+middle; old 112ecce4 showed 4) | 9 s |
 | 15 | 2 | 6ff90bfa-1ff7-4356-b93e-9d040e49474a | 7 s |
 | 16 | 2 | 7fa13132-8b83-4f18-ba4d-85e6d28072d6 | 4 s |
 | 17 | 2 | 8735afcd-5a3e-458b-bd06-d5f5414a5703 | 6 s |
