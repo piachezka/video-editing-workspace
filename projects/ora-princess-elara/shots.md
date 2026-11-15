@@ -14,14 +14,14 @@
 | 10 | 5db221aa-0986-4ac9-a5eb-97328dfe1c2b |
 | 11 | 21ce56c1-957e-4b0a-b528-b37b32a91d0b |
 | 12 | da0bcb45-e876-49a1-9d96-7904a319c3e9 |
-| 13 | fd4b20d2-27b7-41e4-9c04-75eeef7d64d7 |
+| 13 | a29f1c11-92cc-42ef-a351-e11c251c7713 (redo: one shot, points at door) |
 | 14 | 0f2b6d6c-bc3b-407f-ba4f-75f8059a373a |
 | 15 | bc20085b-ff8c-4ae9-baa8-27c33618c3b4 |
 | 16 | 11248bea-a15f-4b99-9a10-d76ba267f422 |
 | 17 | ab4b0724-595c-4f63-b111-0a4344a2775a |
 | 18 | ab2245f3-b4de-49b3-bbb9-f6522d0b5cca |
 | 19 | e8f18e9d-acc4-4150-b82b-6d6dc042891e |
-| 20 | a6f742d6-1e50-4211-a72e-5828531c3c07 |
+| 20 | fdcb03b2-4f7f-441b-baca-64e8e0f95fdc (redo: same terrace as 19) |
 | 21 | fcf6e3e0-22c4-493d-b429-d96149404784 |
 | 22 | ce47ce6e-90e0-4542-9c16-773322a78348 |
 | 23 | 92e3a127-209f-4314-91bb-aee70689617b |
@@ -31,9 +31,9 @@
 | 27 | 4b4b46b6-b8c4-4856-9660-014b778e93e0 |
 | 28 | 8e8ca217-bb36-424a-acf9-9ce16009d8b5 |
 | 29 | bfa419b9-f39c-4da7-b230-8a2d110ed9c8 |
-| 30 | 990aed1b-f5a9-4add-b30a-c926e0913d3e |
+| 30 | 518d1dc3-57af-407f-ac5c-f547dbe31a7d (uploaded mirror of 990aed1b) |
 | 31 | cea5dd0b-a0c8-4b48-87b0-977393143ef6 |
-| 32 | 768fd7fc-08b6-4b2c-b93a-ede83a286561 |
+| 32 | 91b63006-4f29-45b7-8016-f74fc0cfcd68 (redo: Queen left, both hold gummy) |
 | 33 | 3ed6e260-2159-421c-a614-bcd4b515e5b7 |
 | 34 | 6807faa1-2ef3-4753-9ccb-733cce953fa4 |
 | 35 | d0524242-4171-4b3c-8f33-5d33e92c448e |
@@ -49,4 +49,4 @@
 | 45 | f4681e16-a2ef-47eb-a3c4-d021417a47ab |
 | 46 | ecd56030-806d-4ea6-a9a9-6b38b10f2b8c |
 | 47 | 7adcec88-463e-4ed9-b4e5-8373d0da63d8 |
-| 48 | 80e370f2-6b8b-4e69-81f4-063bb6d07027 |
+| 48 | df39e356-6863-4ff3-8db0-7618232373cf (redo: real ORA pouch) |
