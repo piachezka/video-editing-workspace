@@ -50,3 +50,56 @@
 | 46 | ecd56030-806d-4ea6-a9a9-6b38b10f2b8c |
 | 47 | 7adcec88-463e-4ed9-b4e5-8373d0da63d8 |
 | 48 | df39e356-6863-4ff3-8db0-7618232373cf (redo: real ORA pouch) |
+
+## Clips (Kling 3.0 std 720p; sound on = dialogue/VO)
+
+| # | Clip job | Length | Sound |
+|---|---|---|---|
+| 1 | 9df9b0ab-ff4b-4cf0-b840-d863a5388278 | 4s | off |
+| 2 | 904dd64a-4018-4d1f-8afc-2f42559cc0d4 | 4s | on |
+| 3 | bb10deb2-ccc8-439f-b2a4-af58cf082193 | 5s | on |
+| 4 | d5d09d0a-178b-4b9b-9604-e4b940666979 | 4s | off |
+| 5 | dbbded91-9d35-4444-a511-82263717a91e | 6s | off |
+| 6 | a1e118ad-baef-40d0-beb9-84bbe416bc1e | 5s | on |
+| 7 | b0c4e0ec-8bc6-41f9-a372-b4d5a83d4845 | 4s | on |
+| 8 | fb707a01-707b-4f3a-9df8-77646c3d0bf6 | 6s | off |
+| 9 | 6dcb8d10-2911-43ce-9544-9c12381951df | 3s | on |
+| 10 | e23b59b5-c1a6-4c85-862d-b6396c54e553 | 6s | off |
+| 11 | 24303c8f-bb16-4275-b790-eaefe0d49596 | 3s | on |
+| 12 | 3e3ca2e0-8740-4b35-95fd-f4646c7eb78a | 6s | off |
+| 13 | 59f83d74-9dee-4869-8fa8-eae18fa8a476 | 6s | on |
+| 14 | 39f450dd-1bb5-4b39-8a20-2206a4192517 | 5s | off |
+| 15 | 419349a1-c802-4942-8298-522c24aa7ce2 | 4s | off |
+| 16 | 03f5e21f-49df-413a-bd8c-6dc389d28383 | 6s | on |
+| 17 | 10ab6d66-01ec-421b-9194-5fc2c971fe0d | 4s | on |
+| 18 | 2f0c256e-5583-4171-b65a-94822f0083f4 | 4s | off |
+| 19 | 0316b254-4430-40a8-85f2-4ffd057a7f65 | 5s | off |
+| 20 | a12286ed-ef38-4246-9977-95123bef5aa9 | 4s | off |
+| 21 | 47784087-aa41-42aa-afc9-ec40c7023e6a | 4s | on |
+| 22 | 2f6a1118-f4bd-45a6-b7a0-489a2a856e8d | 4s | on |
+| 23 | 7d01ac99-573c-4e50-b794-f5b9d4dd341b | 5s | off |
+| 24 | 8df43972-7850-4a86-a709-dd1fb520026e | 10s | on |
+| 25 | 9f31f3f3-fa4f-4e2f-b600-114c9bbc99af | 5s | off |
+| 26 | b06d7c91-f317-44c0-b2b7-a766fe62cd5f | 5s | on |
+| 27 | a2083a0c-8ff0-44ed-bf3c-fb106ec518b3 | 5s | on |
+| 28 | 5a9a951c-139e-495a-abe3-a0bb3b1720ac | 3s | on |
+| 29 | 315cddee-7b65-48fb-979d-92a9f61a6db3 | 4s | on |
+| 30 | eac4b7e9-4606-4a37-8dad-fc9e9954cd8c | 4s | off |
+| 31 | ea236414-52dd-4a4b-ad31-3e17757b4395 | 6s | on |
+| 32 | fdc83213-9dfd-4f5a-b9f2-af5371cac6ef | 4s | off |
+| 33 | 7cc68154-1267-42a6-9403-dc20dd2d4edc | 4s | off |
+| 34 | 25ca843a-1351-4789-989a-713d3338fbc1 | 4s | off |
+| 35 | 47bd69bd-099f-4a8d-a46d-c7452016bad9 | 5s | off |
+| 36 | 03673cf5-b88d-4614-b8a3-81746c65dde2 | 4s | on |
+| 37 | 2223c0a0-f987-44e5-8e7e-38c8af26d919 | 4s | on |
+| 38 | b70fc683-3fe7-48ed-8657-6a798b372168 | 4s | off |
+| 39 | acd56279-c49f-4be2-9be5-ec1900c8ac54 | 6s | off |
+| 40 | 243a3385-433a-4092-9d77-e525c43ca4a6 | 4s | off |
+| 41 | 55758b5d-a20b-4567-9b02-c558fe1c5231 | 3s | off |
+| 42 | 37d28569-a927-4504-8efb-7eb233e6a4c2 | 7s | on |
+| 43 | a0898478-28c5-4589-ba78-cde1994b3441 | 4s | on |
+| 44 | 34e4c52c-57d6-4e1a-86bc-76e8f840d36d | 4s | off |
+| 45 | fa84fdb5-5e92-490e-aaf2-e229a39459d7 | 5s | off |
+| 46 | 49f77a91-a102-47b4-bbb3-ef13582f26fe | 4s | off |
+| 47 | dc53e924-d330-4492-899b-a00a64e063ef | 6s | on |
+| 48 | d4c1a2c2-bfd6-4141-8c7b-f1a1b785ffd0 | 3s | off |
