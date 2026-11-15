@@ -1,0 +1,42 @@
+# ORA Dante & Emily EP.1: first frames (gpt_image_2_5, 9:16, user's prompts + universal style tag, masters per characters.md)
+
+| # | First frame job |
+|---|---|
+| 1 | bcdecfc7-f050-4c62-816c-3503b6f17be1 |
+| 2 | b17d0dbe-a8e5-4388-b239-846b4e121752 |
+| 3 | 12597684-bfb5-496b-88fa-9a0f695657cf |
+| 4 | 57b303a0-020b-4b6d-afab-e4ef8d38b1c9 |
+| 5 | d975597f-0bf4-4925-8cc8-a4257e79eae1 |
+| 6 | a6c17033-f0d5-4e12-9329-6249626255c6 |
+| 7 | 93b3e17c-bc94-43ae-aee2-f5c2c48b483e |
+| 8 | bb106566-47d0-4438-b708-0038c7c8eddb |
+| 9 | b77481e5-52f0-4201-9f66-00a396b348c7 |
+| 10 | 2be05f9e-e3b4-4cb4-b9fd-4c8d950439e2 |
+| 11 | 97983763-a0a3-41ab-9be4-1c8c82249efa |
+| 12 | 24f13b04-af7c-4e8a-bd86-70b30917032d |
+| 13 | 0faf0d33-4ef8-47d2-8f30-6638dfe0e36e |
+| 14 | c6d0aac1-ebbc-4db8-a277-c97935bef755 |
+| 15 | 428b525c-4fdd-4818-a3a3-22c13ea743b5 |
+| 16 | 1c90a687-f26d-4813-af88-19ef92722a28 |
+| 17 | 98b75dc7-75c8-401f-9728-77d51c379077 |
+| 18 | 8e0e9de1-01b0-4ec3-8c2c-596eb6bbf181 |
+| 19 | a3f4499c-1965-40c4-b013-94f36e03f97c |
+| 20 | 9bd2da20-8546-405c-9670-734fc475a7ad |
+| 21 | 64688b48-84ed-4566-a7b2-f80b1c8c6cc5 |
+| 22 | d40aeed7-bcf5-4fa4-ade8-41601b1b6519 |
+| 23 | 0a00b1d7-d030-44ea-9df8-1180b64a528e |
+| 24 | 7a84c594-22f4-4fda-b920-1fb94242b063 |
+| 25 | 3fe49743-77b4-4bfc-8540-2a85e50d09a0 |
+| 26 | c39e2766-2af7-4156-a2c3-6948f72fb62b |
+| 27 | 4592eda6-b8b8-4958-a148-de6bcba1fa2d |
+| 28 | a29565a2-f01b-4b5f-ac49-1d05c9cdc418 |
+| 29 | 83561228-aa5b-4b48-b3e5-39de57484816 |
+| 30 | dd24c588-ca7f-47d2-92b3-3349622a8e0c |
+| 31 | 248395fb-3d30-4a32-91cc-a80ffd7f2213 |
+| 32 | afa76a56-4fee-4005-bb1d-1241709bc69f |
+| 33 | 0b9178af-820e-49fb-ad43-4a144c22563a |
+| 34 | d2468e52-2225-4c0b-8c32-a2cdb003b16f |
+| 35 | 6f1f1bb3-6620-46ba-abeb-2273ad724905 |
+| 36 | 2b33b25e-e6a5-4f4e-b5cd-f60762eeb16f |
+| 37 | 9e3a4271-6d8b-43f0-afe4-8eba9ae310c6 |
+| 38 | d4ac14a2-8278-4752-9f5d-a8f9538362d5 |
