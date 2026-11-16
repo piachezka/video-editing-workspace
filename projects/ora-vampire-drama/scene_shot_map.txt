@@ -1,0 +1,71 @@
+scene_A.mp4 = shots 1-6
+  shot 1: starts at 0:00.00  (5.0s)
+  shot 2: starts at 0:05.04  (5.0s)
+  shot 3: starts at 0:10.08  (5.0s)
+  shot 4: starts at 0:15.13  (3.0s)
+  shot 5: starts at 0:18.17  (4.0s)
+  shot 6: starts at 0:22.21  (3.0s)
+
+scene_B.mp4 = shots 7-11
+  shot 7: starts at 0:00.00  (5.0s)
+  shot 8: starts at 0:05.04  (6.0s)
+  shot 9: starts at 0:11.08  (4.0s)
+  shot 10: starts at 0:15.13  (7.0s)
+  shot 11: starts at 0:22.17  (5.0s)
+
+scene_C.mp4 = shots 12-15
+  shot 12: starts at 0:00.00  (5.0s)
+  shot 13: starts at 0:05.04  (5.0s)
+  shot 14: starts at 0:10.08  (5.0s)
+  shot 15: starts at 0:15.13  (5.0s)
+
+scene_D.mp4 = shots 16-28
+  shot 16: starts at 0:00.00  (4.0s)
+  shot 17: starts at 0:04.04  (3.0s)
+  shot 18: starts at 0:07.08  (4.0s)
+  shot 19: starts at 0:11.13  (3.0s)
+  shot 20: starts at 0:14.17  (3.0s)
+  shot 21: starts at 0:17.21  (5.0s)
+  shot 22: starts at 0:22.25  (10.0s)
+  shot 23: starts at 0:32.29  (5.0s)
+  shot 24: starts at 0:37.33  (4.0s)
+  shot 25: starts at 0:41.38  (5.0s)
+  shot 26: starts at 0:46.42  (4.0s)
+  shot 27: starts at 0:50.46  (3.0s)
+  shot 28: starts at 0:53.50  (7.0s)
+
+scene_E.mp4 = shots 29-35
+  shot 29: starts at 0:00.00  (5.0s)
+  shot 30: starts at 0:05.04  (5.0s)
+  shot 31: starts at 0:10.08  (4.0s)
+  shot 32: starts at 0:14.13  (3.0s)
+  shot 33: starts at 0:17.17  (3.0s)
+  shot 34: starts at 0:20.21  (3.0s)
+  shot 35: starts at 0:23.25  (5.0s)
+
+scene_F.mp4 = shots 36-40
+  shot 36: starts at 0:00.00  (5.0s)
+  shot 37: starts at 0:05.04  (5.0s)
+  shot 38: starts at 0:10.08  (5.0s)
+  shot 39: starts at 0:15.13  (3.0s)
+  shot 40: starts at 0:18.17  (3.0s)
+
+scene_G.mp4 = shots 41-47
+  shot 41: starts at 0:00.00  (6.0s)
+  shot 42: starts at 0:06.04  (3.0s)
+  shot 43: starts at 0:09.08  (4.0s)
+  shot 44: starts at 0:13.13  (4.0s)
+  shot 45: starts at 0:17.17  (4.0s)
+  shot 46: starts at 0:21.21  (3.0s)
+  shot 47: starts at 0:24.25  (5.0s)
+
+scene_H.mp4 = shots 48-56
+  shot 48: starts at 0:00.00  (3.0s)
+  shot 49: starts at 0:03.04  (4.0s)
+  shot 50: starts at 0:07.08  (3.0s)
+  shot 51: starts at 0:10.13  (4.0s)
+  shot 52: starts at 0:14.17  (4.0s)
+  shot 53: starts at 0:18.21  (5.0s)
+  shot 54: starts at 0:23.25  (3.0s)
+  shot 55: starts at 0:26.29  (3.0s)
+  shot 56: starts at 0:29.33  (3.0s)

@@ -1,7 +1,18 @@
 PROJECT: "The Count's Mortal" (ORA, photoreal gothic vampire drama ad, 9:16, 1080x1920)
 
 INPUTS
-1. Clips: 56 Higgsfield clips (Kling 3.0) named clip_01.mp4 to clip_56.mp4. The number = the shot number. ALL clips have their own audio (dialogue, reactions, ambience); there is NO separate voiceover. Keep each clip's audio. The clips are 716x1280: scale every clip to 1080x1920 (fill, no black bars).
+1. Clips: 8 scene files, scene_A.mp4 to scene_H.mp4. Each one is several shots joined back to back, already 1080x1920 with each shot's own audio (dialogue, reactions, ambience); there is NO separate voiceover. Use them in order A to H.
+   scene_A = shots 1-6 | scene_B = 7-11 | scene_C = 12-15 | scene_D = 16-28 | scene_E = 29-35 | scene_F = 36-40 | scene_G = 41-47 | scene_H = 48-56
+   Where each shot starts inside its scene file (min:sec):
+   A: 1 0:00, 2 0:05.0, 3 0:10.1, 4 0:15.1, 5 0:18.2, 6 0:22.2
+   B: 7 0:00, 8 0:05.0, 9 0:11.1, 10 0:15.1, 11 0:22.2
+   C: 12 0:00, 13 0:05.0, 14 0:10.1, 15 0:15.1
+   D: 16 0:00, 17 0:04.0, 18 0:07.1, 19 0:11.1, 20 0:14.2, 21 0:17.2, 22 0:22.3, 23 0:32.3, 24 0:37.3, 25 0:41.4, 26 0:46.4, 27 0:50.5, 28 0:53.5
+   E: 29 0:00, 30 0:05.0, 31 0:10.1, 32 0:14.1, 33 0:17.2, 34 0:20.2, 35 0:23.3
+   F: 36 0:00, 37 0:05.0, 38 0:10.1, 39 0:15.1, 40 0:18.2
+   G: 41 0:00, 42 0:06.0, 43 0:09.1, 44 0:13.1, 45 0:17.2, 46 0:21.2, 47 0:24.3
+   H: 48 0:00, 49 0:03.0, 50 0:07.1, 51 0:10.1, 52 0:14.2, 53 0:18.2, 54 0:23.3, 55 0:26.3, 56 0:29.3
+   Treat every shot as its own cut: split each scene file at these times, then trim each shot as described below.
 
 SHOT LIST (line = what is said in the clip; check it against the clip audio)
 | Shot | Who | Line / action |
