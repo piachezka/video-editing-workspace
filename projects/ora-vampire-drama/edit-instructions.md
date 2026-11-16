@@ -2,7 +2,6 @@ PROJECT: "The Count's Mortal" (ORA, photoreal gothic vampire drama ad, 9:16, 108
 
 INPUTS
 1. Clips: 56 Higgsfield clips (Kling 3.0) named clip_01.mp4 to clip_56.mp4. The number = the shot number. ALL clips have their own audio (dialogue, reactions, ambience); there is NO separate voiceover. Keep each clip's audio. The clips are 716x1280: scale every clip to 1080x1920 (fill, no black bars).
-2. One screenshot of an inspo ad: STYLE REFERENCE ONLY for the big caption (e.g. "DIMPLING LESS OBVIOUS"). Ignore everything else in it.
 
 SHOT LIST (line = what is said in the clip; check it against the clip audio)
 | Shot | Who | Line / action |
@@ -85,20 +84,19 @@ HOOK CARD (shot 1 only)
   Line 1 (black): A Vampire Was About To Eat Me
   Line 2 (red):   I Gave His Mom A Gummy 💀
 - Never over Clara's face. On screen from 0:00 to the cut into shot 2. Keep it clear of the CLARA MOREAU name card.
-- No captions during shot 1.
+- No subtitles during shot 1.
 
-CAPTIONS (every spoken shot from 2 on; copy the big caption style in the screenshot)
-- Bold condensed sans-serif (Impact-like), ALL CAPS, white with a thin dark outline and a soft drop shadow, no box.
-- One key word per chunk in yellow. Always yellow: ORA, BELLY, SLUDGE, the ingredient names (HESPERIDIN, BUTCHER'S BROOM, PINE BARK, CENTELLA), ONE A NIGHT, DINNER.
-- 2-3 words per chunk, one line, centred, no punctuation, timed to the words after the pause cuts.
-- Position: lower-middle, about 74% of frame height. Move it up when it would cover a face, a mouth, the fangs, the gummy, the ORA pouch label (16, 17, 53), a name card (1, 2, 7) or the action in the belly shots (21-23).
-- Caption text = what is said, exact spelling ("Ora", "hesperidin", "butcher's broom", "pine bark", "centella"). No captions on shot 56 (end card text is already in the clip).
+SUBTITLES (every spoken shot from 2 on; movie-style subtitles)
+- Plain white text, normal sentence case (NOT all caps), clean simple sans-serif, with a thin soft dark shadow so it reads on dark scenes. No colors, no highlighted words, no box behind it.
+- Like film subtitles: 1-2 short lines per subtitle, centred, at the bottom of the frame (about 80-85% of the frame height), timed to the words after the pause cuts. Keep normal punctuation.
+- Move them up only when they would cover a mouth, the fangs, the gummy, the ORA pouch label (16, 17, 53) or a name card (1, 2, 7).
+- Subtitle text = exactly what is said, exact spelling ("Ora", "hesperidin", "butcher's broom", "pine bark", "centella"). No subtitles on shot 56 (end card text is already in the clip).
 
-NO OTHER TEXT OVERLAYS besides the hook card, the name cards and captions.
+NO OTHER TEXT OVERLAYS besides the hook card, the name cards and subtitles.
 
 AUDIO
 - Use the clips' own audio. Even out the loudness clip to clip so each character sounds the same level everywhere. Final loudness -14 LUFS, no clipping.
 - No added music or SFX unless I send them.
 
 QC
-- Check frame by frame: no shot starts with a silent pause, every cut lands on speech or action, captions match the words, nothing covers faces, fangs, the pouch label or the name cards, the hook card never covers Clara's face.
+- Check frame by frame: no shot starts with a silent pause, every cut lands on speech or action, subtitles match the words, nothing covers faces, fangs, the pouch label or the name cards, the hook card never covers Clara's face.
