@@ -88,7 +88,8 @@ HOOK CARD (shot 1 only)
 
 SUBTITLES (every spoken shot from 2 on; movie-style subtitles)
 - Plain white text, normal sentence case (NOT all caps), clean simple sans-serif, with a thin soft dark shadow so it reads on dark scenes. No colors, no highlighted words, no box behind it.
-- Like film subtitles: 1-2 short lines per subtitle, centred, at the bottom of the frame (about 80-85% of the frame height), timed to the words after the pause cuts. Keep normal punctuation.
+- Like film subtitles: 1-2 short lines per subtitle, centred, timed to the words after the pause cuts. Keep normal punctuation.
+- Position: NOT low. Place them at about 65-70% of the frame height (lower-middle), well above the bottom ~25% where the TikTok/Reels buttons and caption cover the screen.
 - Move them up only when they would cover a mouth, the fangs, the gummy, the ORA pouch label (16, 17, 53) or a name card (1, 2, 7).
 - Subtitle text = exactly what is said, exact spelling ("Ora", "hesperidin", "butcher's broom", "pine bark", "centella"). No subtitles on shot 56 (end card text is already in the clip).
 
