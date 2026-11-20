@@ -13,10 +13,10 @@ Model gpt_image_2_5, 9:16. Shots 2, 4, 5 reuse old frames 2, 3, 4. Frame 26 was 
 | 5 | 92ca98f5-da40-47a7-8206-2b31a59ac3a3 |
 | 6 | 23787c32-bcf8-4ba4-9276-a259a6051c4d |
 | 7 | 63802bdf-1267-408d-b012-5ede0e0a0160 |
-| 8 | 0502c967-d307-404d-91eb-b5fe3f94d728 |
+| 8 | 2b61001a-5df2-4eca-9968-19a1e332c67a (redo: legs/toes fixed) |
 | 9 | 80a33ffb-bca2-480d-a3f9-afe1b0ff7776 |
 | 10 | 2f3c8262-4b7a-4428-9683-06634774197b |
-| 11 | 33afea6b-a395-4de8-ba62-a83d9969338c |
+| 11 | cb2e398d-5099-4eac-9d9d-54287cbf80e7 (redo: different from 10) |
 | 12 | 4e56732b-8941-4da5-b7a0-5f9d3def29f8 |
 | 13 | 42eee4ee-c871-410c-9069-c5f974adf59a |
 | 14 | 13b0ab5c-d20d-4753-a29c-cdf3199cd35e |
@@ -36,7 +36,7 @@ Model gpt_image_2_5, 9:16. Shots 2, 4, 5 reuse old frames 2, 3, 4. Frame 26 was 
 | 28 | 3286eb63-69f0-4995-8ee9-43388359c784 |
 | 29 | c6869cfd-62f0-4f64-ab22-955f84390ffe |
 | 30A | fa5321ae-e071-4bd6-9dff-ba54e67a07e6 |
-| 30B | e6c176ac-d3dc-41f3-9886-0b8992dbce21 |
+| 30B | 433a33c1-e175-49d4-970d-41f57334db83 (redo: different from 30A) |
 | 31 | 6be0279c-c6cb-4286-83db-11ca1d976e3f |
 | 32 | 0eec8a31-a860-49c8-b4b8-c1c628cafa3d |
 | 33 | 2f51d065-bb1b-44b0-b4d1-4733c230159b |
