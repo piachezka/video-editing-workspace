@@ -14,12 +14,12 @@ Music for the edit: blade_runner_2049_synthwave_goose.MP3 (user upload).
 | 4 | 08b87abb-21cf-49ae-a6c8-af14b9dea8ed | |
 | 5A | - | REUSE legs-ad clip 74958a68-9173-4489-a1e2-f8312910754f (clip_31_30A) |
 | 5B | - | REUSE legs-ad clip 2b317c5b-0b1d-478b-b7bc-0d553cca17b4 (clip_32_30B) |
-| 6A | 912e91e2-a1df-4a8a-837f-aeb86941b846 | |
+| 6A | b41dd151-0e99-42f6-830e-f6e54bb733b9 | redo: lumpy rolls, not a bump |
 | 6B | d5ed19c7-4296-4c64-8717-792a5b1996b6 | |
-| 7 | 90dd13ff-eb4d-4fa3-8933-9c35f757eefd | |
+| 7 | 685c5567-416c-41b7-8080-38aa1a2a2199 | redo: lumpy rolls, not a bump |
 | 8A | c6b4d2d0-db15-4662-bc1b-c32e8b09ced9 | |
 | 8B | d8a2d90f-aa2b-45ad-8e13-2ac444d35b17 | |
-| 9 | 283e474f-7e70-42ec-a941-15eefd4c708c | |
+| 9 | bcd52ea4-2272-4ba8-b448-29594b0ae1ec | redo: lumpy rolls, not a bump |
 | 10 | 821e5512-4e52-4862-b034-040a79473206 | |
 | 11A | 69ead20b-33e9-44ea-80bf-885f22a9dd2c | |
 | 11B | - | REUSE legs-ad clip 65bfd2dd-83f1-4872-ba28-7ecb4e1e9517 (clip_26_25) |
