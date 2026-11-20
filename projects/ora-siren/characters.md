@@ -1,4 +1,8 @@
-# ORA Siren mini-series: master character frames (gpt_image_2_5, 9:16, low, 1K)
+# "Enchanting Sirens Ep 1 - Tiktok AI drama" (ORA)
+
+STATUS: PAUSED (2026-11-20). Masters made, not yet approved. Open points: siren tops came out bikini-style (redo with covered torsos?), style more painterly than 3D-animated, Queen belly shows bare rolls. Next step when resumed: approve/redo masters, then 45 first frames from the production table.
+
+## Master character frames (gpt_image_2_5, 9:16, low, 1K)
 
 | Ref | Name / title | Job |
 |---|---|---|
