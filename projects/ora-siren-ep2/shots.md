@@ -1,7 +1,6 @@
-# Enchanting Sirens Ep 2 - first frames
+# Enchanting Sirens Ep 2 - first frames (53)
 
-New masters (pending approval): QUEEN NERISSA AFTER 3f317354-9923-469f-9403-e7adc1b22514 | REAL-WORLD WOMAN 4593e49a-bae2-4b30-af98-4710145e886b
-Waiting on masters: 42, 43, 44, 45, 48, 50, 51, 52
+Masters approved: QUEEN NERISSA AFTER 3f317354-9923-469f-9403-e7adc1b22514 | REAL-WORLD WOMAN 4593e49a-bae2-4b30-af98-4710145e886b (Seq 7 = iPhone-style real look)
 
 | Clip | Frame job |
 |---|---|
@@ -46,7 +45,15 @@ Waiting on masters: 42, 43, 44, 45, 48, 50, 51, 52
 | 39 | 6003667b-c3fb-4926-b35a-05dd7d8664b8 |
 | 40 | b16d76b7-d6ee-4f61-b0a1-5366b2d75230 |
 | 41 | 102d9cff-084b-431b-a5dd-b802152a52dd |
+| 42 | b669794e-9c84-4ddc-9d03-38c443c0f04e |
+| 43 | c1863ead-a193-48d5-b61f-72ac3841c340 |
+| 44 | a88bc448-24e5-46e1-8963-54200cd30924 |
+| 45 | 190cac1b-82f4-454f-9f27-d9bdd11ddd57 |
 | 46 | fdac42b4-ce11-4cdb-a69d-403063904700 |
 | 47 | 7168a789-260c-492c-89a6-76bbf64e81bb |
+| 48 | 1a529aa4-c494-4d62-a438-d25a7e694dc3 |
 | 49 | 522c86da-9624-42c5-b985-88b937878d4d |
+| 50 | c1c89db5-3518-4181-bc01-03a0a563c666 |
+| 51 | 395d0366-f772-4f64-806f-0d3bfac49559 |
+| 52 | b533e422-4282-4159-956d-8a765e9a03a9 |
 | 53 | 85b4c400-943c-4a74-b8fe-630c37c0c2a6 |
