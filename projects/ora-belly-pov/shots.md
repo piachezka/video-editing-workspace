@@ -1,7 +1,7 @@
 # POV belly ad - first frames (overlay build, 21 clips; clip 1 = existing hook, clip 2 dropped)
 
 Clip 4 = merged 4A+4B, uses the 4A frame (VO: "It's what happens when you finally drain the sludge... With hesperidin.", ~8s).
-WOMAN clips body-only. 11A redone (POV, natural flat tummy).
+WOMAN clips body-only. 11A redone as a side view from the shoulders down, own hand on a flat tummy (no POV).
 Inspo uploads: xray 42caf5c0, leggings split 8f325f14, walking door 13a10c2d, family lunch ab4c6e42, gummy fingers 4c6d9eb4, pouch mugs c5af4db4, BOGO b4fc15a1, mirror b40b32f0
 
 | Shot | Frame job |
@@ -18,7 +18,7 @@ Inspo uploads: xray 42caf5c0, leggings split 8f325f14, walking door 13a10c2d, fa
 | 9 | 15ea23ba-7378-4a5a-8f8a-ae9f49539384 |
 | 10A | 8223f147-dfbe-4ba9-99ad-f645a50434f1 |
 | 10B | 069bd217-a41d-4e2a-93f1-e4fbc5e5ca65 |
-| 11A | ae83da4b-a938-4e72-8858-72d838bd0ddc |
+| 11A | 1e067153-f481-4b7e-908e-8bccce50ef27 |
 | 11B | 8574a280-558e-46d9-b846-0bb81c984986 |
 | 12 | 60ce4c11-0d6e-479d-8512-68dbe2766d60 |
 | 13A | 679eb6c2-a48f-4b60-bf69-3629435bed47 |
