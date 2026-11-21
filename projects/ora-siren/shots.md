@@ -1,4 +1,5 @@
 # Enchanting Sirens Ep 1 - first frames (gpt_image_2_5, 9:16, default quality, v2 masters attached)
+Redone: queen 13 (obvious belly) -> 18, 24, 25 from 13; Elias grotto 30/31/33/35 from 29; Marina 34 from 32; Elias throne 16/19 from 15.
 
 | Clip | Frame job |
 |---|---|
@@ -14,29 +15,29 @@
 | 10 | 76c4e583-a16a-4e67-ae5f-efae59928d0d |
 | 11 | 9c99494a-74a6-4ec6-81df-c8edcb19b89a |
 | 12 | 5f7772be-7807-49da-8a69-9c5cf68f7f3f |
-| 13 | 63bbb80e-0f58-4d70-81a8-c1199598512c |
+| 13 | c8f76fbe-abde-4e0a-a4e1-2c3e4cf13062 |
 | 14 | 8f1fe019-88a5-4c40-99f5-f1b351cd04c4 |
 | 15 | dc0564af-11a0-4b2f-9f73-d8d44434fe0b |
-| 16 | 31064d7a-30be-4984-b480-8c9c6f99f3e4 |
+| 16 | 2cd5bc7d-c615-43b7-a472-636a9e8552cf |
 | 17 | 19d97333-e189-4594-9870-2ad6960a5a26 |
-| 18 | 292fad58-a1f7-47cb-98e7-1a251c0351f0 |
-| 19 | a1c64d24-7448-4604-84ec-038ff7e0bb0d |
+| 18 | e99bfb12-c1b0-4b08-a225-46606f0b3db5 |
+| 19 | 76a6297c-b4b2-44d7-bb8a-59aa1b6a143d |
 | 20 | c5dcfb6d-c777-480c-8a39-8f27e0c4e29d |
 | 21 | 00f1006f-b28c-489f-a8f6-e67000c19b30 |
 | 22 | 5df5199c-3818-4779-ba98-8a1c27202ecf |
 | 23 | bdeed4ae-caa0-4b92-8711-c34ae6d4ac10 |
-| 24 | cc359281-8bb5-46ba-aadb-5db958d89e5d |
-| 25 | 6a59b023-b89c-48d5-88f5-0feb0c5a6986 |
+| 24 | 74ed2193-1bed-43b4-a0db-f98c6e9e50ad |
+| 25 | 3a53eef4-915c-4ae9-a351-0f377b6c5ee8 |
 | 26 | 954058fa-a151-4c1e-8de8-d3bd5a33129c |
 | 27 | 1cdeaf29-b583-4fb6-adc4-0087b74adf4d |
 | 28 | 37800732-ed9a-4b62-b6a5-78df40791804 |
 | 29 | f6f30c1d-1e5f-48b0-91f2-e91eac087321 |
-| 30 | 909efb1e-402e-495f-b2d8-16619603a3d8 |
-| 31 | cc7d834c-2d4a-42d5-92ae-f4d36934446b |
+| 30 | 21d076aa-4f98-49f3-8275-485797245fde |
+| 31 | 39bef602-3bc1-453f-ab9d-d6c384dd97b3 |
 | 32 | 6e16ba55-e053-4293-9018-c0fc111cefcf |
-| 33 | ff6d07cb-efd0-4096-a5b4-0bec1cf122b7 |
-| 34 | 94ae52b1-6121-4adf-a858-ed5ffed679fa |
-| 35 | c6993ef2-03b0-4d37-b1b0-d8b742531958 |
+| 33 | 4220af68-d45c-4c2d-a8ed-466b63a08394 |
+| 34 | 2b61b3ea-2349-46d4-9932-906182488591 |
+| 35 | a30577a9-f443-4121-ac83-52b3dcf93bad |
 | 36 | 54938664-3d43-40f2-96e3-47930ba47d94 |
 | 37 | 4efc8edd-94e4-4be6-b7fd-06815db2c20c |
 | 38 | 3b1fb137-6866-472f-849d-111604d92760 |
