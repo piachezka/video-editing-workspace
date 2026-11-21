@@ -27,3 +27,28 @@ Inspo uploads: xray 42caf5c0, leggings split 8f325f14, walking door 13a10c2d, fa
 | 14B | b4094f00-2bae-4410-baa6-888fd3f5d2c8 |
 | 15A | 232ac0e3-ba4d-49cc-a765-9ae0c05bd7c1 |
 | 15B | 99c5c979-e003-41dd-9d98-b19c1ea58628 |
+
+## Clips (Kling 3.0, std 720p, 9:16, sound OFF)
+| Shot | Clip job |
+|---|---|
+| 3 | ef2a655f-d57a-4734-b029-a95b6d0da430 |
+| 4 | edd78530-7f53-4420-a504-e3c918454277 |
+| 5A | 40f96bbf-a79b-40a2-89aa-214943a08716 |
+| 5B | 2e4b83ba-849b-46e5-b6b7-4c95abf0fa84 |
+| 6A | 6e732c4c-9c14-4aa7-9c8d-c0bd6d1e0bbe |
+| 6B | a6d21c84-e3ca-4811-a1d6-3d3dd9b8ab5e |
+| 7A | 134cea46-b554-42c4-b725-1ae85e7c384e |
+| 7B | f54be056-e396-40a0-91ca-b6353b8be631 |
+| 8 | 0f43ef55-beea-4c01-b21f-bcd89f7a4fb4 |
+| 9 | 16fdf31f-3887-4732-827e-b3ae09b0a731 |
+| 10A | 03ad1668-4ad9-49e0-9de3-e4a4136eb889 |
+| 10B | 7c5374cc-1806-4804-8d8a-ce2bc30a221d |
+| 11A | bfb5fcee-c63b-4bce-81ea-974c7896eb26 |
+| 11B | e5996398-716a-4ae9-9b6a-c2b749d7b6e2 |
+| 12 | c5ad55d9-09d2-4943-ba57-2bb416a3c313 |
+| 13A | 29f49ce6-c4aa-43bf-80a7-f50a567bff9c |
+| 13B | aa4392bb-c232-4a69-b8db-32293e4fdfcf |
+| 14A | 6282c362-3773-45a0-b666-dab0ca25e9ab |
+| 14B | 8a36830c-d431-4b0b-85ab-60a6be5593b9 |
+| 15A | 65a73693-f460-4966-b2c8-2fdca03707ee |
+| 15B | 67455757-5585-4f03-ba58-010f2c31b581 |
