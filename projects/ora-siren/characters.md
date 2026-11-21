@@ -1,6 +1,6 @@
 # "Enchanting Sirens Ep 1 - Tiktok AI drama" (ORA)
 
-STATUS: PAUSED (2026-11-20). Masters made, not yet approved. Open points: siren tops came out bikini-style (redo with covered torsos?), style more painterly than 3D-animated, Queen belly shows bare rolls. Next step when resumed: approve/redo masters, then 45 first frames from the production table.
+STATUS: RESUMED 2026-11-21. v2 masters made (polished 3D animated look, covered tops) - pending approval. Earlier v1: Masters made, not yet approved. Open points: siren tops came out bikini-style (redo with covered torsos?), style more painterly than 3D-animated, Queen belly shows bare rolls. Next step when resumed: approve/redo masters, then 45 first frames from the production table.
 
 ## Master character frames (gpt_image_2_5, 9:16, low, 1K)
 
@@ -12,3 +12,16 @@ STATUS: PAUSED (2026-11-20). Masters made, not yet approved. Open points: siren 
 | LYRA | Lyra, The Youngest | 41678400-e487-417e-8ca8-d309d2701526 |
 | CORA | Cora, The Hungry | 1832f00c-612e-4496-a527-e26b33bce332 |
 | MORGANA | Morgana, The Eldest | fe938f03-a477-4127-86df-69bb163b649f |
+
+## v2 masters (2026-11-21, gpt_image_2_5, 9:16, low, 1K) - PENDING APPROVAL
+Style: polished glossy 3D animated feature-film look (per user's style screenshots; screenshots NOT used as refs). Sirens in full-coverage long-sleeve high-neck shell bodices; Queen covered, bulge under fabric at the belt.
+| Ref | Job |
+|---|---|
+| ELIAS | 5e98dcc1-52fd-49e7-92a8-f0ac09945ad1 |
+| MARINA | 71531bb9-d898-47b6-9d59-f6602e0c7a6c |
+| QUEEN NERISSA BEFORE | 074a4532-bc84-44e7-8cf6-45c759ab4c93 |
+| LYRA | 2ba9606c-80d9-4b1f-a852-f1190450ce09 |
+| CORA | 53e9720a-dac7-4d5b-a2cb-065984bce930 |
+| MORGANA | 5289cff0-b419-4abb-91de-2f0b7198bcb4 |
+
+Production table: in the user's original brief (transcript; saved copy in scratchpad siren_brief.txt), 45 clips.
