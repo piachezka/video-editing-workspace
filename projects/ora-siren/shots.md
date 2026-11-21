@@ -1,0 +1,49 @@
+# Enchanting Sirens Ep 1 - first frames (gpt_image_2_5, 9:16, default quality, v2 masters attached)
+
+| Clip | Frame job |
+|---|---|
+| 1 | fb4f82fa-cafb-491c-9e73-ffcfbe3d54b6 |
+| 2 | 690f3d02-3401-4859-a23a-fea9461fd3a9 |
+| 3 | a6da885d-1648-4a52-8750-5bb47e706718 |
+| 4 | 48358901-e2c0-4453-9ddd-ed43ecf1bcfb |
+| 5 | 6f414681-1b75-47f8-941a-b9cfae3b162c |
+| 6 | 4327bb12-2be5-427f-9e01-e34abe42910e |
+| 7 | e9f9b77d-50c1-45ae-82c4-4a02e036b2e2 |
+| 8 | 0e9eb1a1-29a4-4d3d-bd79-f4486fd646df |
+| 9 | 753572da-db5e-4cc6-a8b2-99653392d2f4 |
+| 10 | 76c4e583-a16a-4e67-ae5f-efae59928d0d |
+| 11 | 9c99494a-74a6-4ec6-81df-c8edcb19b89a |
+| 12 | 5f7772be-7807-49da-8a69-9c5cf68f7f3f |
+| 13 | 63bbb80e-0f58-4d70-81a8-c1199598512c |
+| 14 | 8f1fe019-88a5-4c40-99f5-f1b351cd04c4 |
+| 15 | dc0564af-11a0-4b2f-9f73-d8d44434fe0b |
+| 16 | 31064d7a-30be-4984-b480-8c9c6f99f3e4 |
+| 17 | 19d97333-e189-4594-9870-2ad6960a5a26 |
+| 18 | 292fad58-a1f7-47cb-98e7-1a251c0351f0 |
+| 19 | a1c64d24-7448-4604-84ec-038ff7e0bb0d |
+| 20 | c5dcfb6d-c777-480c-8a39-8f27e0c4e29d |
+| 21 | 00f1006f-b28c-489f-a8f6-e67000c19b30 |
+| 22 | 5df5199c-3818-4779-ba98-8a1c27202ecf |
+| 23 | bdeed4ae-caa0-4b92-8711-c34ae6d4ac10 |
+| 24 | cc359281-8bb5-46ba-aadb-5db958d89e5d |
+| 25 | 6a59b023-b89c-48d5-88f5-0feb0c5a6986 |
+| 26 | 954058fa-a151-4c1e-8de8-d3bd5a33129c |
+| 27 | 1cdeaf29-b583-4fb6-adc4-0087b74adf4d |
+| 28 | 37800732-ed9a-4b62-b6a5-78df40791804 |
+| 29 | f6f30c1d-1e5f-48b0-91f2-e91eac087321 |
+| 30 | 909efb1e-402e-495f-b2d8-16619603a3d8 |
+| 31 | cc7d834c-2d4a-42d5-92ae-f4d36934446b |
+| 32 | 6e16ba55-e053-4293-9018-c0fc111cefcf |
+| 33 | ff6d07cb-efd0-4096-a5b4-0bec1cf122b7 |
+| 34 | 94ae52b1-6121-4adf-a858-ed5ffed679fa |
+| 35 | c6993ef2-03b0-4d37-b1b0-d8b742531958 |
+| 36 | 54938664-3d43-40f2-96e3-47930ba47d94 |
+| 37 | 4efc8edd-94e4-4be6-b7fd-06815db2c20c |
+| 38 | 3b1fb137-6866-472f-849d-111604d92760 |
+| 39 | bb748089-f879-41a2-8ac7-3ef2ca7124b1 |
+| 40 | 3d03d898-c56f-4bd5-b99a-406ada8cab65 |
+| 41 | 5c48439d-272d-4ff4-a2a1-518d4de3b506 |
+| 42 | 690ca47d-6d42-4549-941c-f96790d99c86 |
+| 43 | 16f79c36-1061-4af1-b3d5-dc7afe4e47db |
+| 44 | d5d1df32-2b5f-4259-93e6-99fa50a7246c |
+| 45 | 840a6773-ff56-4bf0-88a8-5fdf5e20e2a6 |
