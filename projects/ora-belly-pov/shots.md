@@ -32,7 +32,7 @@ Inspo uploads: xray 42caf5c0, leggings split 8f325f14, walking door 13a10c2d, fa
 | Shot | Clip job |
 |---|---|
 | 3 | ef2a655f-d57a-4734-b029-a95b6d0da430 |
-| 4 | edd78530-7f53-4420-a504-e3c918454277 |
+| 4 | BLOCKED twice by safety filter (edd78530, 40c7b735) |
 | 5A | 40f96bbf-a79b-40a2-89aa-214943a08716 |
 | 5B | 2e4b83ba-849b-46e5-b6b7-4c95abf0fa84 |
 | 6A | 6e732c4c-9c14-4aa7-9c8d-c0bd6d1e0bbe |
