@@ -8,7 +8,7 @@ Linda talking heads not listed here use masters directly: LINDA1 0eb2a43e, LINDA
 | 3A | cafa0f2f-bbd7-452b-aebd-206cfe384f34 | LINDA2 + name bar |
 | 31 | a2a0c2d4-9f09-47ff-a37a-dcef02998ff2 | LINDA3 + gummy |
 | 6 | 905fa6b5-1aa7-4323-958c-bee7845b74dc | closet (belly a bit round) |
-| 7 | 7f84ab90-1a95-4f77-9f64-93667e801e7e | lamp (v3: right hand) |
+| 7 | 883ee8b3-5e3d-4e79-b8ff-70f4f19ce6f9 | lamp (v4, no ref, right hand) |
 | 8 | 508b63d0-154e-447e-a98d-d2e3d1faca5d | t-shirt on bed |
 | 9 | d02a4aff-2507-4885-92b9-ff8103986d58 | pillow |
 | 10 | 4500709e-1f54-48ee-82a6-d7d43538f4c2 | husband RIGHT hand, soft belly (v4) |
