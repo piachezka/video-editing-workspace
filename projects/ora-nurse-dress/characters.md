@@ -14,3 +14,5 @@
 | ORA pouch | 517719c2-3fc1-4b88-bfbd-cbf47f3d8964 | real product |
 | M3 sachet v2 (phone hand + one-hand pouch, 3D) | d411bdc4-c857-4b7a-a7ed-3f46b0fc1af7 | pending |
 | M4 hook v2 (master framing, head tilt, point right) | 563346fa-de79-460f-98e0-33f83fb803ab | pending |
+| M3 sachet v3 (new pouch ref 55effda7) | 45b0d0a1-e736-441c-ae85-6aa78f3bf142 | pending |
+| M4 hook v3 (hand fully visible, head tilts toward point) | b8d15578-7fc8-4fbd-9c58-06e122e5421e | pending |
