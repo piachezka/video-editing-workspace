@@ -17,7 +17,7 @@ Linda talking heads not listed here use masters directly: LINDA1 0eb2a43e, LINDA
 | 19 | 6c3b1b30-c526-42e1-95e4-2392ef032fab | xray leak |
 | 20 | 5d901129-15a6-44d3-a785-4324e3938dfb | xray clog |
 | 21 | de085e40-8a80-4e8d-90a1-a3b9ac305814 | pinch |
-| 22 | 845c1c41-872e-4d56-aea6-687c11740a39 | 3-pane X (redo: center crunch) |
+| 22 | 083411db-4ddd-460c-b001-bdbe06656c9c | stacked top/middle/bottom X (v3) |
 | 26 | ed23b59d-6d89-4936-b60a-7d6739f748a1 | hesperidin |
 | 27 | ba9c1d6d-d376-443a-a5eb-02ba2a3e225a | butcher's broom |
 | 28 | 8d5f382b-f6bb-4c88-b249-22782c9fce0c | pine bark |
