@@ -8,10 +8,10 @@ Linda talking heads not listed here use masters directly: LINDA1 0eb2a43e, LINDA
 | 3A | cafa0f2f-bbd7-452b-aebd-206cfe384f34 | LINDA2 + name bar |
 | 31 | a2a0c2d4-9f09-47ff-a37a-dcef02998ff2 | LINDA3 + gummy |
 | 6 | 905fa6b5-1aa7-4323-958c-bee7845b74dc | closet (belly a bit round) |
-| 7 | 62cf6f40-5c23-4be2-8855-d7992b2d0ccc | lamp (redo: right arm fixed) |
+| 7 | 7f84ab90-1a95-4f77-9f64-93667e801e7e | lamp (v3: right hand) |
 | 8 | 508b63d0-154e-447e-a98d-d2e3d1faca5d | t-shirt on bed |
 | 9 | d02a4aff-2507-4885-92b9-ff8103986d58 | pillow |
-| 10 | 5d44bad8-c2dd-4d50-92fb-5c1365023fd9 | husband hand (redo: soft belly) |
+| 10 | 4500709e-1f54-48ee-82a6-d7d43538f4c2 | husband RIGHT hand, soft belly (v4) |
 | 16 | c8408bc1-4768-4327-b798-3e6c8c0fd07b | 3-pane |
 | 17 | 4e5f9b54-7d31-47b8-8b0a-ac8de23c019d | defeated pat |
 | 19 | 6c3b1b30-c526-42e1-95e4-2392ef032fab | xray leak |
