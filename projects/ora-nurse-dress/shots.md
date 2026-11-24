@@ -6,12 +6,12 @@ TH clips use masters directly: 1,32=HOOK 06b3b80f; 2,3B,4,9,24,31,33,35=NURSE2 6
 | 06 | e96f902d-39f9-4423-8f08-ac0f50d09b58 |
 | 7A | e6abfdb7-81de-4c14-9751-9195355454ce |
 | 7B | 5b15d760-2676-4682-83fb-309d0d9e0b72 |
-| 7C | 0b8f44eb-ff17-4fdd-b7e9-0a2fc3686e47 |
+| 7C | b6804c41-42e6-4d6b-861e-d5dedb4ed17f (v2, matches 7B) |
 | 8A | d6c1e704-fb45-4af2-b4ca-08d139ae6bae |
 | 8B | 6c303c64-29cc-46ea-b9f7-26fd43d3ff4c |
-| 10 | 0052dab1-9d88-4652-a44f-4c0dfe5c79ed |
+| 10 | 2de75637-505d-44f3-907f-e091fd16eddc (v2, thick legs) |
 | 11 | b691ebc6-19b2-46d6-8ff9-366d9de9bbeb |
-| 12 | 7595cea4-b358-41b4-9026-c8a1ceecfcf5 |
+| 12 | 58b65a7a-c34d-4ab5-b4e0-d91b412f4fdb (v2, two legs) |
 | 13 | 90488b02-7c37-4955-8142-08b8a550d948 |
 | 15 | 6d5d0c10-4ac9-488d-8bb0-bdf6c9e06727 |
 | 16 | 3959e2ad-cccf-4df8-9b4e-94d18c54dc7e |
