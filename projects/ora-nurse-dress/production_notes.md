@@ -10,3 +10,4 @@ Natural conversational female voice, late 20s/early 30s American English, warm c
 - WEEK labels (27–29): frames generated WITHOUT text; added in edit (Kling garbles burned-in text).
 - Split screens 18 & 30: stacked top/middle/bottom layout (user preference from Linda 22).
 - 20–23 ingredient X-rays: frames generated (leg versions).
+- 20–23: NO vids (user reuses existing ingredient clips).

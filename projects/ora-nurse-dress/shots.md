@@ -24,7 +24,7 @@ TH clips use masters directly: 1,32=HOOK 06b3b80f; 2,3B,4,9,24,31,33,35=NURSE2 6
 | 25 | 4f656ead-dd48-4fa7-aab3-6d97461e2c20 |
 | 27 | 1cb9b5bb-2c49-43d3-9c3b-1ee98af9b87c |
 | 28 | 4e22d91a-06f7-4918-8dcb-038316b90b11 |
-| 29 | ade4fbca-a3aa-4407-a61f-6c8a112e4a93 |
+| 29 | 589d904f-2660-4a70-b462-d3d536a0a5df (v2, ankle close-up) |
 | 30 | aa18a052-049d-4f33-a2fd-4a7b6476237a |
 
 Safety-flag rewrites: 7A (1b0b3444 nsfw → e6abfdb7 knee-to-hip wording), 23 (748ba8d9 nsfw → 39ecf48c skin-layer diagram).
