@@ -12,3 +12,5 @@
 | M6 legs after mirror | 4d2e4665 (nsfw flag) → 8fbf5fd6-e20a-40fc-912a-1b37d61b6043 (knee-length tee dress, knees down) | pending |
 | M7 legs after loose scrubs | 87afb0d9-c5b8-4cec-b71a-312e68583f04 | pending |
 | ORA pouch | 517719c2-3fc1-4b88-bfbd-cbf47f3d8964 | real product |
+| M3 sachet v2 (phone hand + one-hand pouch, 3D) | d411bdc4-c857-4b7a-a7ed-3f46b0fc1af7 | pending |
+| M4 hook v2 (master framing, head tilt, point right) | 563346fa-de79-460f-98e0-33f83fb803ab | pending |
