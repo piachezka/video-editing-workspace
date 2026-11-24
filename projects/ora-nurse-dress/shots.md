@@ -28,3 +28,4 @@ TH clips use masters directly: 1,32=HOOK 06b3b80f; 2,3B,4,9,24,31,33,35=NURSE2 6
 | 30 | aa18a052-049d-4f33-a2fd-4a7b6476237a |
 
 Safety-flag rewrites: 7A (1b0b3444 nsfw → e6abfdb7 knee-to-hip wording), 23 (748ba8d9 nsfw → 39ecf48c skin-layer diagram).
+| 25 v2 (gummy only, no pouch) | 38e424c1-c5a2-4b12-a6aa-23f0991b1bcc |
