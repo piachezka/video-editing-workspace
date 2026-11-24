@@ -16,3 +16,4 @@
 | M4 hook v2 (master framing, head tilt, point right) | 563346fa-de79-460f-98e0-33f83fb803ab | pending |
 | M3 sachet v3 (new pouch ref 55effda7) | 45b0d0a1-e736-441c-ae85-6aa78f3bf142 | pending |
 | M4 hook v3 (hand fully visible, head tilts toward point) | b8d15578-7fc8-4fbd-9c58-06e122e5421e | pending |
+| M4 hook v4 (head tilted to camera-left) | 06b3b80f-1edc-429f-8e4f-228ee9c9e4a3 | pending |
