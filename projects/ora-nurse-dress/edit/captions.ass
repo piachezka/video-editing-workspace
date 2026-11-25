@@ -1,0 +1,171 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Anton,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,4,3,5,30,30,0,1
+Style: Week,Anton,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3.5,3,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.84,Cap,,0,0,0,,{\an5\pos(360,945)}THIS IS THE {\c&H00F2FF&}DRESS{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.84,0:00:01.30,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}BOUGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.30,0:00:01.46,Cap,,0,0,0,,{\an5\pos(360,945)}IN THE
+Dialogue: 0,0:00:01.46,0:00:02.60,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}BLACK{\c&HFFFFFF&} {\c&H00F2FF&}FRIDAY{\c&HFFFFFF&} SALE
+Dialogue: 0,0:00:02.60,0:00:03.50,Cap,,0,0,0,,{\an5\pos(360,945)}IT'S {\c&H00F2FF&}SHORT{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.50,0:00:04.32,Cap,,0,0,0,,{\an5\pos(360,945)}IT'S {\c&H00F2FF&}TIGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.32,0:00:05.50,Cap,,0,0,0,,{\an5\pos(360,945)}AND IN FOUR {\c&H00F2FF&}WEEKS{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.50,0:00:06.48,Cap,,0,0,0,,{\an5\pos(360,945)}ON {\c&H00F2FF&}NEW{\c&HFFFFFF&} {\c&H00F2FF&}YEAR'S{\c&HFFFFFF&} EVE
+Dialogue: 0,0:00:06.48,0:00:06.81,Cap,,0,0,0,,{\an5\pos(360,945)}I'M {\c&H00F2FF&}GOING{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.81,0:00:07.29,Cap,,0,0,0,,{\an5\pos(360,945)}TO {\c&H00F2FF&}LOOK{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.29,0:00:08.40,Cap,,0,0,0,,{\an5\pos(360,945)}THE BEST {\c&H00F2FF&}I'VE{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.40,0:00:08.95,Cap,,0,0,0,,{\an5\pos(360,945)}EVER {\c&H00F2FF&}LOOKED{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.95,0:00:09.27,Cap,,0,0,0,,{\an5\pos(360,945)}IN IT
+Dialogue: 0,0:00:09.27,0:00:09.78,Cap,,0,0,0,,{\an5\pos(360,945)}AND NO
+Dialogue: 0,0:00:09.78,0:00:10.44,Cap,,0,0,0,,{\an5\pos(360,945)}I'M NOT {\c&H00F2FF&}STARTING{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.44,0:00:10.90,Cap,,0,0,0,,{\an5\pos(360,945)}A {\c&H00F2FF&}DIET{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.90,0:00:11.61,Cap,,0,0,0,,{\an5\pos(360,945)}I'M A {\c&H00F2FF&}NURSE{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.61,0:00:11.92,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}DO{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.92,0:00:12.86,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}TWELVE-HOUR{\c&HFFFFFF&} SHIFTS
+Dialogue: 0,0:00:12.86,0:00:13.81,Cap,,0,0,0,,{\an5\pos(360,945)}DIETS DON'T {\c&H00F2FF&}SURVIVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.81,0:00:14.40,Cap,,0,0,0,,{\an5\pos(360,945)}NIGHT {\c&H00F2FF&}SHIFT{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.40,0:00:15.59,Cap,,0,0,0,,{\an5\pos(360,945)}HERE'S WHAT {\c&H00F2FF&}NOBODY{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.59,0:00:16.26,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}TELLS{\c&HFFFFFF&} YOU WHEN
+Dialogue: 0,0:00:16.26,0:00:16.67,Cap,,0,0,0,,{\an5\pos(360,945)}YOU {\c&H00F2FF&}START{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.67,0:00:17.18,Cap,,0,0,0,,{\an5\pos(360,945)}THIS {\c&H00F2FF&}JOB{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.18,0:00:17.84,Cap,,0,0,0,,{\an5\pos(360,945)}YOUR {\c&H00F2FF&}LEGS{\c&HFFFFFF&} PAY
+Dialogue: 0,0:00:17.84,0:00:18.39,Cap,,0,0,0,,{\an5\pos(360,945)}FOR IT
+Dialogue: 0,0:00:18.39,0:00:19.01,Cap,,0,0,0,,{\an5\pos(360,945)}A FEW {\c&H00F2FF&}YEARS{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.01,0:00:19.71,Cap,,0,0,0,,{\an5\pos(360,945)}ON YOUR {\c&H00F2FF&}FEET{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.71,0:00:20.82,Cap,,0,0,0,,{\an5\pos(360,945)}AND THEY'RE {\c&H00F2FF&}BIG{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.82,0:00:21.60,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}HEAVY{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.60,0:00:22.49,Cap,,0,0,0,,{\an5\pos(360,945)}THICK {\c&H00F2FF&}THIGHS{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.49,0:00:23.51,Cap,,0,0,0,,{\an5\pos(360,945)}THICK {\c&H00F2FF&}CALVES{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.51,0:00:24.76,Cap,,0,0,0,,{\an5\pos(360,945)}NO {\c&H00F2FF&}ANKLES{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.76,0:00:25.10,Cap,,0,0,0,,{\an5\pos(360,945)}YOU {\c&H00F2FF&}GET{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.10,0:00:26.49,Cap,,0,0,0,,{\an5\pos(360,945)}HOME {\c&H00F2FF&}BLOATED{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.49,0:00:27.11,Cap,,0,0,0,,{\an5\pos(360,945)}TOO {\c&H00F2FF&}WRECKED{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.11,0:00:27.88,Cap,,0,0,0,,{\an5\pos(360,945)}TO {\c&H00F2FF&}COOK{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.88,0:00:28.31,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}LEGS{\c&HFFFFFF&} UP
+Dialogue: 0,0:00:28.31,0:00:28.61,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}WALL{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.61,0:00:29.46,Cap,,0,0,0,,{\an5\pos(360,945)}ON THE {\c&H00F2FF&}COUCH{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.46,0:00:30.89,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}ASLEEP{\c&HFFFFFF&} BY NINE
+Dialogue: 0,0:00:30.89,0:00:31.18,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}THOUGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.18,0:00:31.40,Cap,,0,0,0,,{\an5\pos(360,945)}IT WAS
+Dialogue: 0,0:00:31.40,0:00:32.00,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}JOB{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.00,0:00:32.95,Cap,,0,0,0,,{\an5\pos(360,945)}OR MY {\c&H00F2FF&}WEIGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.95,0:00:33.68,Cap,,0,0,0,,{\an5\pos(360,945)}SO I {\c&H00F2FF&}WORE{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.68,0:00:34.98,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}COMPRESSION{\c&HFFFFFF&} SOCKS
+Dialogue: 0,0:00:34.98,0:00:35.41,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}BOUGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.41,0:00:36.82,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}EIGHTY-DOLLAR{\c&HFFFFFF&} CLOGS
+Dialogue: 0,0:00:36.82,0:00:37.43,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}SQUEEZED{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.43,0:00:37.95,Cap,,0,0,0,,{\an5\pos(360,945)}IN {\c&H00F2FF&}SOME{\c&HFFFFFF&} GYM
+Dialogue: 0,0:00:37.95,0:00:38.68,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}SESSIONS{\c&HFFFFFF&} AFTER
+Dialogue: 0,0:00:38.68,0:00:39.59,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}SHIFTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.59,0:00:40.78,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}LEGS{\c&HFFFFFF&} DIDN'T
+Dialogue: 0,0:00:40.78,0:00:42.01,Cap,,0,0,0,,{\an5\pos(360,945)}MOVE AN {\c&H00F2FF&}INCH{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.01,0:00:42.55,Cap,,0,0,0,,{\an5\pos(360,945)}IT {\c&H00F2FF&}TOOK{\c&HFFFFFF&} ME
+Dialogue: 0,0:00:42.55,0:00:42.98,Cap,,0,0,0,,{\an5\pos(360,945)}A {\c&H00F2FF&}LOT{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.98,0:00:43.48,Cap,,0,0,0,,{\an5\pos(360,945)}OF {\c&H00F2FF&}TIME{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.48,0:00:44.21,Cap,,0,0,0,,{\an5\pos(360,945)}AND {\c&H00F2FF&}RESEARCH{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.21,0:00:44.87,Cap,,0,0,0,,{\an5\pos(360,945)}TO {\c&H00F2FF&}FIND{\c&HFFFFFF&} OUT
+Dialogue: 0,0:00:44.87,0:00:46.03,Cap,,0,0,0,,{\an5\pos(360,945)}IT ISN'T {\c&H00F2FF&}FAT{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.03,0:00:46.70,Cap,,0,0,0,,{\an5\pos(360,945)}WHEN YOU {\c&H00F2FF&}STAND{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.70,0:00:47.25,Cap,,0,0,0,,{\an5\pos(360,945)}ALL {\c&H00F2FF&}DAY{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.25,0:00:48.22,Cap,,0,0,0,,{\an5\pos(360,945)}THE TINY {\c&H00F2FF&}VESSELS{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.22,0:00:48.84,Cap,,0,0,0,,{\an5\pos(360,945)}IN YOUR {\c&H00F2FF&}LEGS{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.84,0:00:49.85,Cap,,0,0,0,,{\an5\pos(360,945)}START LEAKING {\c&H00F2FF&}GUNK{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.85,0:00:50.87,Cap,,0,0,0,,{\an5\pos(360,945)}INTO THE {\c&H00F2FF&}TISSUE{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.87,0:00:51.39,Cap,,0,0,0,,{\an5\pos(360,945)}YOUR {\c&H00F2FF&}LYMPH{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.39,0:00:51.91,Cap,,0,0,0,,{\an5\pos(360,945)}IS {\c&H00F2FF&}SUPPOSED{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.91,0:00:52.24,Cap,,0,0,0,,{\an5\pos(360,945)}TO {\c&H00F2FF&}HAUL{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.24,0:00:52.66,Cap,,0,0,0,,{\an5\pos(360,945)}IT {\c&H00F2FF&}OUT{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.66,0:00:53.76,Cap,,0,0,0,,{\an5\pos(360,945)}BUT IT'S {\c&H00F2FF&}CLOGGED{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.76,0:00:54.62,Cap,,0,0,0,,{\an5\pos(360,945)}SO THE {\c&H00F2FF&}SLUDGE{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.62,0:00:55.59,Cap,,0,0,0,,{\an5\pos(360,945)}JUST SITS {\c&H00F2FF&}THERE{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.59,0:00:56.15,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}PACKED{\c&HFFFFFF&} INTO
+Dialogue: 0,0:00:56.15,0:00:56.73,Cap,,0,0,0,,{\an5\pos(360,945)}YOUR {\c&H00F2FF&}THIGHS{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.73,0:00:57.61,Cap,,0,0,0,,{\an5\pos(360,945)}AND {\c&H00F2FF&}CALVES{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.61,0:00:59.21,Cap,,0,0,0,,{\an5\pos(360,945)}SOCKS {\c&H00F2FF&}SQUEEZE{\c&HFFFFFF&} IT
+Dialogue: 0,0:00:59.21,0:01:00.33,Cap,,0,0,0,,{\an5\pos(360,945)}SQUATS BUILD {\c&H00F2FF&}MUSCLE{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.33,0:01:01.04,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}UNDER{\c&HFFFFFF&} IT
+Dialogue: 0,0:01:01.04,0:01:01.85,Cap,,0,0,0,,{\an5\pos(360,945)}BUT {\c&H00F2FF&}NOTHING{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.85,0:01:02.86,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}DRAINS{\c&HFFFFFF&} IT
+Dialogue: 0,0:01:02.86,0:01:03.36,Cap,,0,0,0,,{\an5\pos(360,945)}THIS IS {\c&H00F2FF&}WHAT{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.36,0:01:04.23,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}TAKE{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.23,0:01:05.26,Cap,,0,0,0,,{\an5\pos(360,945)}IT'S CALLED {\c&H00F2FF&}ORA{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.26,0:01:06.63,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}HESPERIDIN{\c&HFFFFFF&} SEALS
+Dialogue: 0,0:01:06.63,0:01:07.86,Cap,,0,0,0,,{\an5\pos(360,945)}THE LEAKING {\c&H00F2FF&}VESSELS{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.86,0:01:08.96,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}BUTCHER'S{\c&HFFFFFF&} {\c&H00F2FF&}BROOM{\c&HFFFFFF&} PUSHES
+Dialogue: 0,0:01:08.96,0:01:09.55,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}SLUDGE{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.55,0:01:10.31,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}BACK{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:10.31,0:01:11.61,Cap,,0,0,0,,{\an5\pos(360,945)}MARITIME {\c&H00F2FF&}PINE{\c&HFFFFFF&} {\c&H00F2FF&}BARK{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.61,0:01:12.70,Cap,,0,0,0,,{\an5\pos(360,945)}OPENS THE {\c&H00F2FF&}TINIEST{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.70,0:01:14.17,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}VESSELS{\c&HFFFFFF&} SO IT DRAINS
+Dialogue: 0,0:01:14.17,0:01:15.37,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}CENTELLA{\c&HFFFFFF&} TIGHTENS
+Dialogue: 0,0:01:15.37,0:01:15.86,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}SKIN{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.86,0:01:16.85,Cap,,0,0,0,,{\an5\pos(360,945)}IT {\c&H00F2FF&}STRETCHED{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.85,0:01:17.66,Cap,,0,0,0,,{\an5\pos(360,945)}THE FIRST {\c&H00F2FF&}THREE{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.66,0:01:18.71,Cap,,0,0,0,,{\an5\pos(360,945)}GET THE {\c&H00F2FF&}TRASH{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:18.71,0:01:20.03,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}FOURTH{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.03,0:01:20.71,Cap,,0,0,0,,{\an5\pos(360,945)}IS THE {\c&H00F2FF&}REASON{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.71,0:01:21.85,Cap,,0,0,0,,{\an5\pos(360,945)}IT {\c&H00F2FF&}STAYS{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:21.85,0:01:22.83,Cap,,0,0,0,,{\an5\pos(360,945)}ONE {\c&H00F2FF&}STRAWBERRY{\c&HFFFFFF&} {\c&H00F2FF&}GUMMY{\c&HFFFFFF&}
+Dialogue: 0,0:01:22.83,0:01:23.06,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}WHEN{\c&HFFFFFF&} I
+Dialogue: 0,0:01:23.06,0:01:23.79,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}CLOCK{\c&HFFFFFF&} IN
+Dialogue: 0,0:01:23.79,0:01:24.39,Cap,,0,0,0,,{\an5\pos(360,945)}AND THIS {\c&H00F2FF&}ISN'T{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.39,0:01:25.30,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}FIRST{\c&HFFFFFF&} TIME
+Dialogue: 0,0:01:25.30,0:01:25.69,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}TOOK{\c&HFFFFFF&}
+Dialogue: 0,0:01:25.69,0:01:26.56,Cap,,0,0,0,,{\an5\pos(360,945)}IT IN THE {\c&H00F2FF&}SPRING{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.56,0:01:27.45,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}WEEK{\c&HFFFFFF&} ONE
+Dialogue: 0,0:01:27.45,0:01:28.32,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}LEGS{\c&HFFFFFF&} STOPPED
+Dialogue: 0,0:01:28.32,0:01:29.39,Cap,,0,0,0,,{\an5\pos(360,945)}FEELING LIKE {\c&H00F2FF&}CONCRETE{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.39,0:01:30.52,Cap,,0,0,0,,{\an5\pos(360,945)}AFTER A {\c&H00F2FF&}SHIFT{\c&HFFFFFF&}
+Dialogue: 0,0:01:30.52,0:01:31.31,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}WEEK{\c&HFFFFFF&} TWO
+Dialogue: 0,0:01:31.31,0:01:32.22,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}SCRUBS{\c&HFFFFFF&} GOT
+Dialogue: 0,0:01:32.22,0:01:33.55,Cap,,0,0,0,,{\an5\pos(360,945)}LOOSE ON MY {\c&H00F2FF&}THIGHS{\c&HFFFFFF&}
+Dialogue: 0,0:01:33.55,0:01:34.45,Cap,,0,0,0,,{\an5\pos(360,945)}BY WEEK {\c&H00F2FF&}FOUR{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.45,0:01:35.00,Cap,,0,0,0,,{\an5\pos(360,945)}MY {\c&H00F2FF&}SCRUBS{\c&HFFFFFF&}
+Dialogue: 0,0:01:35.00,0:01:35.60,Cap,,0,0,0,,{\an5\pos(360,945)}WERE {\c&H00F2FF&}LOOSER{\c&HFFFFFF&}
+Dialogue: 0,0:01:35.60,0:01:36.21,Cap,,0,0,0,,{\an5\pos(360,945)}AND I {\c&H00F2FF&}HAD{\c&HFFFFFF&}
+Dialogue: 0,0:01:36.21,0:01:37.22,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}ANKLES{\c&HFFFFFF&} AGAIN
+Dialogue: 0,0:01:37.22,0:01:37.82,Cap,,0,0,0,,{\an5\pos(360,945)}I WAS {\c&H00F2FF&}COOKING{\c&HFFFFFF&}
+Dialogue: 0,0:01:37.82,0:01:38.51,Cap,,0,0,0,,{\an5\pos(360,945)}DINNER {\c&H00F2FF&}INSTEAD{\c&HFFFFFF&}
+Dialogue: 0,0:01:38.51,0:01:39.36,Cap,,0,0,0,,{\an5\pos(360,945)}OF {\c&H00F2FF&}PASSING{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:39.36,0:01:40.12,Cap,,0,0,0,,{\an5\pos(360,945)}ON THE {\c&H00F2FF&}COUCH{\c&HFFFFFF&}
+Dialogue: 0,0:01:40.12,0:01:40.63,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}EVERY{\c&HFFFFFF&} GIRL
+Dialogue: 0,0:01:40.63,0:01:41.25,Cap,,0,0,0,,{\an5\pos(360,945)}ON MY {\c&H00F2FF&}UNIT{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.25,0:01:41.91,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}ASKED{\c&HFFFFFF&} WHAT
+Dialogue: 0,0:01:41.91,0:01:42.86,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}CHANGED{\c&HFFFFFF&}
+Dialogue: 0,0:01:42.86,0:01:43.77,Cap,,0,0,0,,{\an5\pos(360,945)}SO THIS {\c&H00F2FF&}TIME{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.77,0:01:44.20,Cap,,0,0,0,,{\an5\pos(360,945)}I'M {\c&H00F2FF&}DOING{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.20,0:01:45.08,Cap,,0,0,0,,{\an5\pos(360,945)}IT FOR THE {\c&H00F2FF&}DRESS{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.08,0:01:45.79,Cap,,0,0,0,,{\an5\pos(360,945)}FOUR {\c&H00F2FF&}WEEKS{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.79,0:01:46.56,Cap,,0,0,0,,{\an5\pos(360,945)}ONE {\c&H00F2FF&}PACK{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.56,0:01:46.91,Cap,,0,0,0,,{\an5\pos(360,945)}I {\c&H00F2FF&}KNOW{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.91,0:01:47.37,Cap,,0,0,0,,{\an5\pos(360,945)}I'M {\c&H00F2FF&}GETTING{\c&HFFFFFF&}
+Dialogue: 0,0:01:47.37,0:01:48.23,Cap,,0,0,0,,{\an5\pos(360,945)}THE BEST {\c&H00F2FF&}SHAPE{\c&HFFFFFF&}
+Dialogue: 0,0:01:48.23,0:01:48.97,Cap,,0,0,0,,{\an5\pos(360,945)}OF MY {\c&H00F2FF&}LIFE{\c&HFFFFFF&}
+Dialogue: 0,0:01:48.97,0:01:49.96,Cap,,0,0,0,,{\an5\pos(360,945)}ON {\c&H00F2FF&}NEW{\c&HFFFFFF&} {\c&H00F2FF&}YEAR'S{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.96,0:01:50.94,Cap,,0,0,0,,{\an5\pos(360,945)}IT'S {\c&H00F2FF&}BUY{\c&HFFFFFF&} {\c&H00F2FF&}ONE{\c&HFFFFFF&}
+Dialogue: 0,0:01:50.94,0:01:51.72,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}GET{\c&HFFFFFF&} {\c&H00F2FF&}ONE{\c&HFFFFFF&} {\c&H00F2FF&}FREE{\c&HFFFFFF&}
+Dialogue: 0,0:01:51.72,0:01:52.23,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}RIGHT{\c&HFFFFFF&} NOW
+Dialogue: 0,0:01:52.23,0:01:52.99,Cap,,0,0,0,,{\an5\pos(360,945)}FROM A {\c&H00F2FF&}SMALL{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.99,0:01:54.90,Cap,,0,0,0,,{\an5\pos(360,945)}COMPANY CALLED {\c&H00F2FF&}FEELORA{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.90,0:01:55.83,Cap,,0,0,0,,{\an5\pos(360,945)}THEY {\c&H00F2FF&}SELL{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:55.83,0:01:56.49,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}EVERY{\c&HFFFFFF&} TIME THEY
+Dialogue: 0,0:01:56.49,0:01:56.93,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}RUN{\c&HFFFFFF&} IT
+Dialogue: 0,0:01:56.93,0:01:57.79,Cap,,0,0,0,,{\an5\pos(360,945)}SO I'M {\c&H00F2FF&}GRABBING{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.79,0:01:58.87,Cap,,0,0,0,,{\an5\pos(360,945)}MINE {\c&H00F2FF&}BEFORE{\c&HFFFFFF&}
+Dialogue: 0,0:01:58.87,0:01:59.84,Cap,,0,0,0,,{\an5\pos(360,945)}THE {\c&H00F2FF&}HOLIDAYS{\c&HFFFFFF&}
+Dialogue: 0,0:01:59.84,0:02:00.56,Cap,,0,0,0,,{\an5\pos(360,945)}{\c&H00F2FF&}SIXTY{\c&HFFFFFF&} {\c&H00F2FF&}DAYS{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.56,0:02:00.83,Cap,,0,0,0,,{\an5\pos(360,945)}TO {\c&H00F2FF&}GET{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.83,0:02:01.79,Cap,,0,0,0,,{\an5\pos(360,945)}YOUR {\c&H00F2FF&}MONEY{\c&HFFFFFF&} BACK
+Dialogue: 0,0:02:01.79,0:02:02.76,Cap,,0,0,0,,{\an5\pos(360,945)}LINK {\c&H00F2FF&}BELOW{\c&HFFFFFF&}
+Dialogue: 1,0:01:26.63,0:01:30.44,Week,,0,0,0,,{\an7\pos(44,150)}WEEK 1
+Dialogue: 1,0:01:30.50,0:01:33.47,Week,,0,0,0,,{\an7\pos(44,150)}WEEK 2
+Dialogue: 1,0:01:33.53,0:01:37.14,Week,,0,0,0,,{\an7\pos(44,150)}WEEK 4
