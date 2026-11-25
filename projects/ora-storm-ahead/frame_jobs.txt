@@ -26,12 +26,12 @@
 25 2a66663a-d374-49b6-94cd-499f3ed6609b (fixed: Gus bald / modest top)
 26 a2016b65-3010-490a-8b52-38664de600c8
 27 63151998-d64c-44a5-b977-ddd9cdd21de0
-28 7d582987-181b-463a-a1d7-eb336b2bcea2
+28 d488cf5a-2389-4b24-bb2f-21af7bc3bc12 (redo: front mirror gasp)
 29 01a179e0-a981-413f-a4c8-b6444df889b0
 30 55e44a00-75a3-417f-a425-1e968ca5936f
-31 12fdf88a-1910-4113-8ab6-aaeb05640f76
+31 20c58d31-72f1-44b9-a541-100a2a179849 (redo: low-angle profile)
 32 edaca665-bfd2-488c-95d8-ddabc2228b6e (fixed: Gus bald / modest top)
 33 9b71ee2c-c0a1-4bed-a157-e05668517475 (fixed: Gus bald / modest top)
-34 441fe8f9-76f9-43f6-b8d9-f8949c3a5e24 (fixed: Gus bald / modest top)
+34 756498b9-e8ad-43f3-8355-c2df4e4169a2 (redo: straight-on with pouch)
 35 78c0a4e5-1646-44b4-ad71-a6a90ff6cc42
 36 4bf47b13-77cc-4e81-bdba-b075ec5632c8

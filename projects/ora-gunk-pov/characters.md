@@ -6,3 +6,9 @@
 | ORA A gummy hero | 30de445b-b6da-4d0e-a95f-9d0741ddb78e |
 | ORA B caped heroine | 3d6bca34-3fb7-4cda-95fd-b42274a77122 |
 | TRUCK | e43f50e5-9e18-42e1-bfb1-1c9b4aaf0511 |
+| ORA pouch-with-face (requested) | acd9298a-f3f8-403e-ac66-adda8c76a95e |
+
+## LOCKED
+- GUNK = GUNK A aba42bbb-b3b3-4637-872c-176fae73151c
+- ORA = pouch with face acd9298a-f3f8-403e-ac66-adda8c76a95e (pending approval)
+- TRUCK = e43f50e5-9e18-42e1-bfb1-1c9b4aaf0511 (pending confirm)
