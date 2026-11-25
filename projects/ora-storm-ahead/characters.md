@@ -11,5 +11,5 @@
 ## LOCKED
 - PIP = PIP A 5bd52ea8-48c6-452e-9732-78649effd243 (approved)
 - GUS = GUS B fb2747b6-d601-4e5b-9be0-1ec3b6435557 (approved)
-- CAROL BEFORE = 21e59a00-9819-4a8c-ac82-ca4657bdce3f
-- CAROL AFTER v3 = 1cf315f6-3622-46ef-b11b-bf70d55e504f (pending; v1 b96b0966 too young, v2 b507ca77 not slim enough)
+- CAROL BEFORE = 21e59a00-9819-4a8c-ac82-ca4657bdce3f (approved)
+- CAROL AFTER v3 = 1cf315f6-3622-46ef-b11b-bf70d55e504f (approved; v1 b96b0966 too young, v2 b507ca77 not slim enough)
