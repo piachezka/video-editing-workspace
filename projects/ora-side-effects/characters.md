@@ -11,3 +11,4 @@ Pouch ref 55effda7-61e1-4c42-9a5a-b16d7cd1a573 · Gummy ref 02937635-af4f-4bcb-8
 | MARK B salt-and-pepper, tee | a59e7dc8-db19-4527-89e2-4a50ca2f80b3 |
 | MARK C silver, knit sweater | 1be158b4-2ff5-4386-bf38-c89388e55381 |
 | JEN A v2 (bold outlines, fuller legs; outline ref f64615ab-cf34-4f68-805c-6e69af0412bf) | bbb0de21-63bd-46bb-bb99-b9454ff33d26 |
+| JEN A v3 (original style, full dark-brown legs) | 6cbb3321-43f6-4a0f-9190-b95c9b26452e |
