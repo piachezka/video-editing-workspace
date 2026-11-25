@@ -31,3 +31,4 @@ Safety-flag rewrites: 7A (1b0b3444 nsfw → e6abfdb7 knee-to-hip wording), 23 (7
 | 25 v2 (gummy only, no pouch) | 38e424c1-c5a2-4b12-a6aa-23f0991b1bcc |
 | 24 v2 clip (3 then 4 fingers) | 8e3683be-7a0e-47c7-b517-c232cda4357a |
 | 25 v3 (real gummy look, ref 02937635) | ec2cd5fc-e204-48e5-aafe-166cc6f1e6cc |
+| 25 v4 (from NURSE 2 master + gummy ref, no old frame) | f1b3d193-db56-4947-a33e-d71386a906f5 |
