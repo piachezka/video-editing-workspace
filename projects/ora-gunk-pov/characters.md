@@ -27,3 +27,11 @@
 - ORA = pouch with face acd9298a-f3f8-403e-ac66-adda8c76a95e
 - TRUCK = e43f50e5-9e18-42e1-bfb1-1c9b4aaf0511
 Waiting on production table.
+
+## ENVIRONMENT MASTERS (pending approval)
+| Tag | Job ID |
+|---|---|
+| BODY STREET — Gunk territory | 03689fbe-1763-4a46-b065-42cd346f9aa3 |
+| BODY STREET — restored | 177478df-e4db-4089-b5d9-c026167627b4 |
+| BEDROOM + HALLWAY MIRROR | b190f503-0fe6-440d-978d-4f0be49a382c |
+| BATHROOM dusk / morning | reuse MAYA BEFORE / MAYA AFTER masters |
