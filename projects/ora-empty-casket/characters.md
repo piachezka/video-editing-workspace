@@ -8,3 +8,12 @@
 | WALTER | dd79c856-993c-4209-a6c7-157020d7e89b |
 
 ## LOCKED (user approved all 5 masters)
+
+## SETTING MASTERS (pending approval)
+| Tag | Job ID |
+|---|---|
+| CEMETERY funeral | 9283795b-2169-4883-823a-9a82cbfc2f38 |
+| OAK TREE | e24318c2-4eef-4629-a1ff-e472446d72ae |
+| MOUNTAIN ROAD + RIVER night | a03e76fa-cd41-4e63-844c-9460c380f82e |
+| CABIN main room / kitchen | b559df66-1b7d-413b-8f22-497abde41d83 |
+| CABIN bedroom + mirror | 1d8a2505-f830-453b-9c05-35ae9361225f |
