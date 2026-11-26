@@ -13,3 +13,9 @@ Rules for every movie/drama edit instruction:
 - Quick white flash (2–4 frames) only for impacts (crash, shock reveal).
 - Never fade in the middle of dialogue; the fade starts after the last word.
 - List the exact clip boundaries that get an effect in the instructions; everything else is a hard cut.
+
+## Lesson (Empty Casket): montage clips with characters
+Kling multi-shot clips only keep identity for the FIRST shot (the start frame). Later shots that show
+locked characters drift (different faces/outfits). For montages/recaps that show characters, build the
+montage in the edit from existing consistent clips under the narration audio, or generate each shot
+as its own clip from its own first frame.
