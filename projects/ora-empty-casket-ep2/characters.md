@@ -5,7 +5,7 @@ EP1 masters reused (see ../ora-empty-casket/characters.md): HANNAH TRAINED bf714
 | A platinum bob (as briefed) | c5028172-0fbe-4b33-b58a-2872a0320f25 |
 | B golden-honey bob (differs from Vanessa) | 4ba94625-fc10-4ea5-ae88-70e5ab95d63c |
 
-## LOCKED: CLAIRE = A platinum c5028172-0fbe-4b33-b58a-2872a0320f25
+## LOCKED: CLAIRE = B golden-honey 4ba94625-fc10-4ea5-ae88-70e5ab95d63c (switched from A: too similar to Vanessa)
 
 ## SETTING MASTERS (pending approval) — cabin reused from EP1 (b559df66 main, 1d8a2505 bedroom)
 | OFFICE day | c4349d94-8350-4c92-83cc-550c5a8ce3cd |
