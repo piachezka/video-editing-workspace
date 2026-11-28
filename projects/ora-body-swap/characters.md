@@ -5,9 +5,9 @@ Voice rule: voice = who is inside. Seq 1-6 swapped, Seq 7 own voices.
 
 ## LOCKED masters (user: gen) — JESS c2a9d491, DIANE a1e46ce5
 ## SETTINGS (pending)
-| LIVING ROOM | e0861738-57d1-4383-ab74-64654faa3fe3 |
-| KITCHEN | 8876959f-df2f-4562-8695-cda97023e9f8 |
-| BEDROOM | 770c9761-b461-4a95-a911-196da1aebf1c |
-| STAIRS | 5a8a9cb9-21fb-407c-872b-6f63deab2db6 |
-| SPA | 21a8bbeb-de52-4c30-b3b0-ce8394268992 |
-| SIDEWALK | a7350b2a-2801-492a-87e6-3667cf12c787 |
+| LIVING ROOM | 20ad04af-fe98-4c5a-97be-bd08a9d660c1 (v2 realistic) |
+| KITCHEN | 37bc5322-67c5-43c7-b7a5-56e388f0cbbc (v2 realistic) |
+| BEDROOM | bd0fb870-266d-46c8-b179-0459d9665d86 (v2 realistic) |
+| STAIRS | 28ce0bf9-62ad-4f07-b82e-1c594e2e6a7c (v2 realistic) |
+| SPA | 6c4af5ae-891d-43f4-bcf0-7db291937690 (v2 realistic) |
+| SIDEWALK | f97c9d86-1084-4bbe-aad8-83578431aae2 (v2 realistic) |
